@@ -1,0 +1,2 @@
+# Cleaned documents go here after running phase2_processing/document_cleaner.py
+# Format: {doc_id}_clean.json

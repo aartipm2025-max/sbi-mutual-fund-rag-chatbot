@@ -1,0 +1,2 @@
+# FAISS index files go here after running phase3_embeddings/embedder.py
+# Files: faiss_index.bin, chunks_metadata.pkl

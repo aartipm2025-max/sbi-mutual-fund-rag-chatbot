@@ -1,0 +1,3 @@
+# Raw documents go here after running phase1_data_collection/data_scraper.py
+# Format: {doc_id}.json
+# Each file contains: doc_id, source, url, fetched_at, word_count, text

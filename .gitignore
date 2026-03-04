@@ -1,0 +1,34 @@
+# ── Secrets — NEVER commit ────────────────────────────────────────────────────
+.env
+.streamlit/secrets.toml
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Raw scraped data (large, reproducible — exclude) ─────────────────────────
+data/raw_documents/*.json
+
+# ── Vector store — INCLUDE (pre-built, small enough for GitHub) ───────────────
+# vector_store/faiss_index.bin   ← DO commit (261 KB)
+# vector_store/chunks_metadata.pkl ← DO commit (82 KB)
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
