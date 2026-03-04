@@ -1,26 +1,21 @@
 source_id,source_name,url,category,scrape_priority
-1,SBI AMC,https://www.sbimf.com/,Homepage,High
-2,SBI AMC,https://www.sbimf.com/en-us/sbi-bluechip-fund,Equity Fund,High
-3,SBI AMC,https://www.sbimf.com/en-us/sbi-small-cap-fund,Equity Fund,High
-4,SBI AMC,https://www.sbimf.com/en-us/sbi-equity-hybrid-fund,Hybrid Fund,High
-5,SBI AMC,https://www.sbimf.com/en-us/sbi-liquid-fund,Debt Fund,High
-6,SBI AMC,https://www.sbimf.com/en-us/sbi-long-term-equity-fund,ELSS,High
-7,SBI AMC,https://www.sbimf.com/en-us/sbi-nifty-index-fund,Index Fund,High
-8,SBI AMC,https://www.sbimf.com/en-us/sbi-magnum-medium-duration-fund,Debt Fund,Medium
-9,SBI AMC,https://www.sbimf.com/en-us/faq,FAQ,High
-10,SBI AMC,https://www.sbimf.com/en-us/systematic-investment-plan,SIP Info,High
-11,SEBI,https://www.sebi.gov.in/legal/regulations.html,Regulations,High
-12,SEBI,https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=13,Investor FAQ,High
-13,SEBI,https://www.sebi.gov.in/legal/circulars.html,Circulars,Medium
-14,SEBI,https://www.sebi.gov.in/legal/regulations/aug-2011/kyc-registration-agency-krra-regulations-2011_15923.html,KYC Guidelines,High
-15,SEBI,https://www.sebi.gov.in/legal/circulars/oct-2020/product-labeling-in-mutual-funds_47631.html,Risk-o-Meter,High
-16,SEBI,https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doInvestorEducation=yes,Investor Charter,Medium
-17,SEBI,https://www.sebi.gov.in,Expense Ratio Norms,Medium
-18,SEBI,https://www.sebi.gov.in,NAV Guidelines,Medium
-19,AMFI,https://www.amfiindia.com/investor-corner/knowledge-center/mutual-fund-basics.html,MF Basics,High
-20,AMFI,https://www.amfiindia.com/investor-corner/knowledge-center/faqs.html,Investor FAQ,High
-21,AMFI,https://www.amfiindia.com/investor-corner/knowledge-center/risk.html,Risk Info,High
-22,AMFI,https://www.amfiindia.com/investor-corner/tools-and-data/sip-returns.html,SIP Info,Medium
-23,AMFI,https://www.amfiindia.com/research-information/fund-information,Fund Data,Medium
-24,AMFI,https://www.amfiindia.com/nav-history-download.aspx,NAV Data,High
-25,AMFI,https://www.amfiindia.com/industry-information/amfi-code-of-ethics,Code of Ethics,Low
+url,source_type,scheme_name,document_type
+https://www.sbimf.com/en-us/equity-funds/sbi-bluechip-fund,AMC,SBI Bluechip Fund,Scheme Page
+https://www.sbimf.com/en-us/equity-funds/sbi-flexicap-fund,AMC,SBI Flexicap Fund,Scheme Page
+https://www.sbimf.com/en-us/equity-funds/sbi-long-term-equity-fund,AMC,SBI Long Term Equity Fund,Scheme Page
+https://www.sbimf.com/en-us/index-funds/sbi-nifty-index-fund,AMC,SBI Nifty Index Fund,Scheme Page
+https://www.sbimf.com/en-us/hybrid-funds/sbi-equity-hybrid-fund,AMC,SBI Equity Hybrid Fund,Scheme Page
+https://www.sbimf.com/en-us/factsheets,AMC,All Schemes,Factsheets
+https://www.sbimf.com/en-us/statutory-documents,AMC,All Schemes,KIM SID
+https://www.sbimf.com/en-us/investor-service,AMC,All Schemes,Investor Service
+https://www.sbimf.com/en-us/faq,AMC,General,FAQ
+https://www.sbimf.com/en-us/systematic-investment-plan,AMC,General,SIP Information
+https://www.amfiindia.com/,AMFI,General,MF Basics
+https://www.amfiindia.com/investor-corner,AMFI,General,Investor Education
+https://www.amfiindia.com/net-asset-value,AMFI,General,NAV Information
+https://www.amfiindia.com/investor-corner/knowledge-center/faqs.html,AMFI,General,MF FAQ
+https://www.amfiindia.com/investor-corner/knowledge-center/risk.html,AMFI,General,Risk Explanation
+https://investor.sebi.gov.in/,SEBI,General,Investor Education
+https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0,SEBI,General,Mutual Fund Regulations
+https://www.sebi.gov.in/legal/circulars/oct-2020/product-labeling-in-mutual-funds_47631.html,SEBI,General,Riskometer
+https://www.camsonline.com/Investors/Statements,CAMS,Statements,Capital Gains Statement

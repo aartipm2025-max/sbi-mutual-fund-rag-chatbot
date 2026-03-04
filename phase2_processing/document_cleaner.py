@@ -27,8 +27,8 @@ OUTPUT_DIR  = BASE_DIR / "data" / "processed_documents"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── Config ────────────────────────────────────────────────────────────────────
-MIN_LINE_LENGTH = 30   # Lines shorter than this are dropped
-MIN_DOC_WORDS   = 50   # Documents with fewer words are skipped
+MIN_LINE_LENGTH = 5    # Preserves short factual lines (e.g., AUM, NAV, etc.)
+MIN_DOC_WORDS   = 40    # Reduced slightly for short but dense technical notes
 
 
 # ── Cleaning Functions ────────────────────────────────────────────────────────

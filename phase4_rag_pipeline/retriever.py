@@ -27,8 +27,8 @@ METADATA_FILE = BASE_DIR / "vector_store" / "chunks_metadata.pkl"
 
 # ── Config ────────────────────────────────────────────────────────────────────
 EMBEDDING_MODEL    = "sentence-transformers/all-MiniLM-L6-v2"
-TOP_K              = 5      # Number of chunks to retrieve
-DISTANCE_THRESHOLD = 1.2    # Only return genuinely relevant chunks
+DISTANCE_THRESHOLD = 1.6    # Increased flexibility for retrieval
+TOP_K              = 7      # Pull in more chunks for broader context
 
 
 class Retriever:
