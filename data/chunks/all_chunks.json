@@ -1,5 +1,95 @@
 [
   {
+    "chunk_id": "curated_sbi_elss_taxsaver_chunk_000",
+    "doc_id": "curated_sbi_elss_taxsaver",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-long-term-equity-fund",
+    "chunk_idx": 0,
+    "text": "DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET\nSCHEME NAME: SBI ELSS Tax Saver Fund\nSCHEME TYPE: Open-ended Equity Linked Saving Scheme (ELSS)\nCATEGORY: Equity\nSTRUCTURE: Open Ended\nRISK LEVEL: Very High Risk\nINVESTMENT OBJECTIVE: Provide long-term capital appreciation while offering tax benefits under Section 80C.\nLOCK-IN PERIOD: 3 Years\nASSET ALLOCATION: Minimum 80% equity and equity-related instruments; Up to 20% money market instruments.",
+    "char_len": 442
+  },
+  {
+    "chunk_id": "curated_sbi_elss_taxsaver_chunk_001",
+    "doc_id": "curated_sbi_elss_taxsaver",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-long-term-equity-fund",
+    "chunk_idx": 1,
+    "text": "BENCHMARK: Primary: BSE 500 TRI; Additional: BSE Sensex TRI\nFUND MANAGER: Dinesh Balachandran (since September 2016)\nDATE OF ALLOTMENT: 31 March 1993\nAUM: ₹31,861.52 Crore (31 Jan 2026)\nRETURNS SINCE INCEPTION: Regular Growth: 16.16%; Direct Growth: 16.14%\nNAV: ₹429.3901 (04 Mar 2026)\nMINIMUM SIP: ₹500",
+    "char_len": 303
+  },
+  {
+    "chunk_id": "curated_sbi_infrastructure_chunk_000",
+    "doc_id": "curated_sbi_infrastructure",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-infrastructure-fund",
+    "chunk_idx": 0,
+    "text": "DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET\nSCHEME NAME: SBI Infrastructure Fund\nSCHEME TYPE: Open-ended equity scheme investing in infrastructure and allied sectors\nCATEGORY: Equity\nSTRUCTURE: Open Ended\nRISK LEVEL: Very High Risk\nINVESTMENT OBJECTIVE: Provide long-term capital appreciation by investing in companies involved in infrastructure growth.\nASSET ALLOCATION: Minimum 80% infrastructure-related equities; Up to 20% other equities, debt, and money market instruments.",
+    "char_len": 478
+  },
+  {
+    "chunk_id": "curated_sbi_infrastructure_chunk_001",
+    "doc_id": "curated_sbi_infrastructure",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-infrastructure-fund",
+    "chunk_idx": 1,
+    "text": "BENCHMARK: Primary: Nifty Infrastructure TRI; Additional: BSE Sensex TRI\nFUND MANAGER: Bhavin Vithlani (since January 2022)\nDATE OF ALLOTMENT: 06 July 2007\nAUM: ₹4,545.62 Crore (31 Jan 2026)\nRETURNS SINCE INCEPTION: Regular Growth: 8.77%; Direct Growth: 14.66%\nNAV: ₹46.9983 (04 Mar 2026)\nMINIMUM SIP: ₹500",
+    "char_len": 306
+  },
+  {
+    "chunk_id": "curated_sbi_large_midcap_chunk_000",
+    "doc_id": "curated_sbi_large_midcap",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-large-midcap-fund",
+    "chunk_idx": 0,
+    "text": "DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET\nSCHEME NAME: SBI Large & Midcap Fund\nSCHEME TYPE: Open-ended equity scheme investing in large-cap and mid-cap stocks\nCATEGORY: Equity\nSTRUCTURE: Open Ended\nRISK LEVEL: Very High Risk\nINVESTMENT OBJECTIVE: Provide long-term capital appreciation through a diversified portfolio of large-cap and mid-cap companies.\nINVESTMENT STRATEGY: Blend of growth and value investing with top-down and bottom-up stock selection.",
+    "char_len": 457
+  },
+  {
+    "chunk_id": "curated_sbi_large_midcap_chunk_001",
+    "doc_id": "curated_sbi_large_midcap",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-large-midcap-fund",
+    "chunk_idx": 1,
+    "text": "ASSET ALLOCATION: Minimum 35% large-cap equities; Minimum 35% mid-cap equities; Up to 30% other equity or debt instruments.\nBENCHMARK: Primary: Nifty LargeMidcap 250 TRI; Additional: BSE Sensex TRI\nFUND MANAGER: Saurabh Pant (since September 2016)\nDATE OF ALLOTMENT: 28 February 1993\nAUM: ₹37,496.73 Crore (31 Jan 2026)\nRETURNS SINCE INCEPTION: Regular Growth: 14.86%; Direct Growth: 17.11%\nNAV: ₹632.554 (04 Mar 2026)\nMINIMUM SIP: ₹500",
+    "char_len": 436
+  },
+  {
+    "chunk_id": "curated_sbi_nifty_next50_chunk_000",
+    "doc_id": "curated_sbi_nifty_next50",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/index-funds/sbi-nifty-next-50-index-fund",
+    "chunk_idx": 0,
+    "text": "DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET\nSCHEME NAME: SBI Nifty Next 50 Index Fund\nSCHEME TYPE: Open-ended index fund tracking Nifty Next 50 Index\nCATEGORY: Passive Solutions\nSTRUCTURE: Open Ended\nRISK LEVEL: Very High Risk\nINVESTMENT OBJECTIVE: Provide returns that correspond to the performance of the Nifty Next 50 Total Returns Index.\nINVESTMENT STRATEGY: Passive index replication strategy tracking the Nifty Next 50 TRI.\nBENCHMARK: Primary: Nifty Next 50 TRI; Additional: BSE Sensex TRI",
+    "char_len": 495
+  },
+  {
+    "chunk_id": "curated_sbi_nifty_next50_chunk_001",
+    "doc_id": "curated_sbi_nifty_next50",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/index-funds/sbi-nifty-next-50-index-fund",
+    "chunk_idx": 1,
+    "text": "FUND MANAGER: Raviprakash Sharma (since March 2015)\nDATE OF ALLOTMENT: 19 May 2021\nAUM: ₹1,814.36 Crore (31 Jan 2026)\nRETURNS SINCE INCEPTION: Regular Growth: 13.74%; Direct Growth: 14.27%\nNAV: ₹18.0534 (04 Mar 2026)\nMINIMUM SIP: ₹500",
+    "char_len": 234
+  },
+  {
+    "chunk_id": "curated_sbi_small_cap_chunk_000",
+    "doc_id": "curated_sbi_small_cap",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-small-cap-fund",
+    "chunk_idx": 0,
+    "text": "DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET\nSCHEME NAME: SBI Small Cap Fund\nSCHEME TYPE: Open-ended equity scheme investing predominantly in small-cap stocks\nCATEGORY: Equity\nSTRUCTURE: Open Ended\nRISK LEVEL: Very High Risk\nINVESTMENT OBJECTIVE: Provide long-term capital appreciation by investing in a diversified basket of small-cap companies.\nINVESTMENT STRATEGY: Blend of growth and value investing using bottom-up stock selection.",
+    "char_len": 435
+  },
+  {
+    "chunk_id": "curated_sbi_small_cap_chunk_001",
+    "doc_id": "curated_sbi_small_cap",
+    "source": "Master Scheme Dataset",
+    "url": "https://www.sbimf.com/en-us/equity-funds/sbi-small-cap-fund",
+    "chunk_idx": 1,
+    "text": "ASSET ALLOCATION: Minimum 65% small-cap equities; Up to 35% other equities, debt, and money market instruments.\nBENCHMARK: Primary: BSE 250 SmallCap Index TRI; Additional: BSE Sensex TRI\nFUND MANAGER: R Srinivasan (since November 2013)\nDATE OF ALLOTMENT: 09 September 2009\nAUM: ₹34,449.23 Crore (31 Jan 2026)\nRETURNS SINCE INCEPTION: Regular Growth: 18.39%; Direct Growth: 22.5%\nNAV: ₹154.7423 (04 Mar 2026)\nMINIMUM SIP: ₹500",
+    "char_len": 425
+  },
+  {
     "chunk_id": "indmoney_master_knowledge_base_chunk_000",
     "doc_id": "indmoney_master_knowledge_base",
     "source": "INDmoney Internal / Official AMC Data",
