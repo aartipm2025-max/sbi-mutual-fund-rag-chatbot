@@ -34,18 +34,15 @@ BLOCKED_PATTERNS: list[str] = [
 
 OPINION_REFUSAL = (
     "I'm designed to answer **factual questions** about SBI Mutual Fund schemes "
-    "using only official public information from SBI AMC, SEBI, and AMFI.\n\n"
+    "using only verified information from the **INDmoney Portal**.\n\n"
     "I'm **unable to provide investment advice or personal recommendations**. "
-    "For personalised guidance, please consult a SEBI-registered financial advisor or "
-    "visit [SEBI Investor Education](https://www.sebi.gov.in)."
+    "For personalised guidance, please consult a SEBI-registered financial advisor."
 )
 
 INSUFFICIENT_INFO = (
-    "I don't have enough information from official sources (SBI AMC, SEBI, AMFI) "
+    "I don't have enough information from the **INDmoney Portal** "
     "to answer this question accurately. Please check "
-    "[sbimf.com](https://www.sbimf.com), "
-    "[sebi.gov.in](https://www.sebi.gov.in), or "
-    "[amfiindia.com](https://www.amfiindia.com) directly."
+    "[indmoney.com](https://www.indmoney.com) directly."
 )
 
 # ── System Prompt ─────────────────────────────────────────────────────────────
@@ -60,7 +57,7 @@ STRICT RULES — follow every rule without exception:
 4. Do NOT give investment advice, personal recommendations, or return predictions.
 5. Do NOT express opinions or say things like "I recommend" or "you should".
 6. If the provided context contains PARTIAL information, use what is available to give the best factual answer.
-7. Treat all information in the CONTEXT (from SBI AMC, AMFI, SEBI, and INDmoney) as the single source of truth.
+7. Treat all information in the CONTEXT (exclusively from the INDmoney Portal) as the single source of truth.
 8. Only say "I don't have enough information from official sources to answer this accurately" if the context has ZERO relevant information about the question.
 9. Be specific and direct — investors want clear, factual answers."""
 

@@ -1,21 +1,8 @@
 source_id,source_name,url,category,scrape_priority
 url,source_type,scheme_name,document_type
-https://www.sbimf.com/en-us/equity-funds/sbi-bluechip-fund,AMC,SBI Bluechip Fund,Scheme Page
-https://www.sbimf.com/en-us/equity-funds/sbi-flexicap-fund,AMC,SBI Flexicap Fund,Scheme Page
-https://www.sbimf.com/en-us/equity-funds/sbi-long-term-equity-fund,AMC,SBI Long Term Equity Fund,Scheme Page
-https://www.sbimf.com/en-us/index-funds/sbi-nifty-index-fund,AMC,SBI Nifty Index Fund,Scheme Page
-https://www.sbimf.com/en-us/hybrid-funds/sbi-equity-hybrid-fund,AMC,SBI Equity Hybrid Fund,Scheme Page
-https://www.sbimf.com/en-us/factsheets,AMC,All Schemes,Factsheets
-https://www.sbimf.com/en-us/statutory-documents,AMC,All Schemes,KIM SID
-https://www.sbimf.com/en-us/investor-service,AMC,All Schemes,Investor Service
-https://www.sbimf.com/en-us/faq,AMC,General,FAQ
-https://www.sbimf.com/en-us/systematic-investment-plan,AMC,General,SIP Information
-https://www.amfiindia.com/,AMFI,General,MF Basics
-https://www.amfiindia.com/investor-corner,AMFI,General,Investor Education
-https://www.amfiindia.com/net-asset-value,AMFI,General,NAV Information
-https://www.amfiindia.com/investor-corner/knowledge-center/faqs.html,AMFI,General,MF FAQ
-https://www.amfiindia.com/investor-corner/knowledge-center/risk.html,AMFI,General,Risk Explanation
-https://investor.sebi.gov.in/,SEBI,General,Investor Education
-https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0,SEBI,General,Mutual Fund Regulations
-https://www.sebi.gov.in/legal/circulars/oct-2020/product-labeling-in-mutual-funds_47631.html,SEBI,General,Riskometer
+https://www.indmoney.com/mutual-funds/sbi-small-cap-fund,INDmoney,SBI Small Cap Fund,Scheme Page
+https://www.indmoney.com/mutual-funds/sbi-large-midcap-fund,INDmoney,SBI Large & Midcap Fund,Scheme Page
+https://www.indmoney.com/mutual-funds/sbi-elss-tax-saver-fund,INDmoney,SBI ELSS Tax Saver Fund,Scheme Page
+https://www.indmoney.com/mutual-funds/sbi-nifty-next-50-index-fund,INDmoney,SBI Nifty Next 50 Index Fund,Scheme Page
+https://www.indmoney.com/mutual-funds/sbi-infrastructure-fund,INDmoney,SBI Infrastructure Fund,Scheme Page
 https://www.camsonline.com/Investors/Statements,CAMS,Statements,Capital Gains Statement
