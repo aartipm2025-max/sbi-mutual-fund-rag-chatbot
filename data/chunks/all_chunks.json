@@ -367,5 +367,77 @@
     "chunk_idx": 5,
     "text": "Cons: Not generated consistent returns, does not beat the benchmark consistently, underperforms during bull runs.\nSource: INDmoney | Updated: March 2026",
     "char_len": 152
+  },
+  {
+    "chunk_id": "quant_sbi_elss_chunk_000",
+    "doc_id": "quant_sbi_elss",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 0,
+    "text": "SCHEME NAME: SBI ELSS Tax Saver Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 1.57% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 0.92% (28 Feb 2026)\n- Sharpe Ratio: 1.36\n- Standard Deviation: 12.81%\n- Beta: 0.97\n- Source: CRISIL Fund Analyser\n- Risk-Free Rate Used: FBIL Overnight MIBOR 9.39% (30 Sep 2024)\n- Calculation Basis: 3 Years Monthly Data Points\nIDCW HISTORY:\n- Plan: SBI ELSS Tax Saver Fund - Direct Plan - IDCW\n- 24 Mar 2023: IDCW ₹6.8 (NAV ₹60.5306)",
+    "char_len": 496
+  },
+  {
+    "chunk_id": "quant_sbi_elss_chunk_001",
+    "doc_id": "quant_sbi_elss",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 1,
+    "text": "- 24 Mar 2023: IDCW ₹6.8 (NAV ₹60.5306)\n- 17 Mar 2022: IDCW ₹6.5 (NAV ₹62.9052)\n- 06 Mar 2020: IDCW ₹3.8072572 (NAV ₹42.3469)\n- 08 Mar 2019: IDCW ₹3.8072572 (NAV ₹48.1586)\n- Face Value: ₹10",
+    "char_len": 189
+  },
+  {
+    "chunk_id": "quant_sbi_infra_chunk_000",
+    "doc_id": "quant_sbi_infra",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 0,
+    "text": "SCHEME NAME: SBI Infrastructure Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 1.93% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 1.04% (28 Feb 2026)\n- Tracking Error (Regular Plan): 5.7594% (02 Mar 2026)\n- Sharpe Ratio: 1.04\n- Standard Deviation: 15.19%\n- Beta: 0.88\n- Tracking Error Calculation: 1-year period ending 02 Mar 2026 based on day-end NAV (Total Returns Index).\n- Expense Ratio Note: Inclusive of GST on management fees.\nIDCW HISTORY:",
+    "char_len": 480
+  },
+  {
+    "chunk_id": "quant_sbi_infra_chunk_001",
+    "doc_id": "quant_sbi_infra",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 1,
+    "text": "IDCW HISTORY:\n- Plan: SBI Infrastructure Fund - Regular Plan - IDCW\n- 16 Mar 2018: IDCW ₹1.7 (NAV ₹13.6863)\n- Face Value: ₹10",
+    "char_len": 125
+  },
+  {
+    "chunk_id": "quant_sbi_large_midcap_chunk_000",
+    "doc_id": "quant_sbi_large_midcap",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 0,
+    "text": "SCHEME NAME: SBI Large & Midcap Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 1.55% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 0.72% (28 Feb 2026)\n- Sharpe Ratio: 1.23\n- Standard Deviation: 10.84%\n- Beta: 0.79\n- Source: CRISIL Fund Analyser\n- Risk-Free Rate Used: FBIL Overnight MIBOR 9.39% (30 Sep 2024)\n- Calculation Basis: 3 Years Monthly Data Points\nIDCW HISTORY:\n- Plan: SBI Large & Midcap Fund - Regular Plan - IDCW\n- 09 Mar 2018: IDCW ₹11 (NAV ₹94.1106)",
+    "char_len": 496
+  },
+  {
+    "chunk_id": "quant_sbi_large_midcap_chunk_001",
+    "doc_id": "quant_sbi_large_midcap",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 1,
+    "text": "- 09 Mar 2018: IDCW ₹11 (NAV ₹94.1106)\n- 27 Feb 2017: IDCW ₹7.8 (NAV ₹89.6546)\n- 12 Sep 2014: IDCW ₹11.5 (NAV ₹74.96410)\n- Face Value: ₹10",
+    "char_len": 138
+  },
+  {
+    "chunk_id": "quant_sbi_next50_chunk_000",
+    "doc_id": "quant_sbi_next50",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 0,
+    "text": "SCHEME NAME: SBI Nifty Next 50 Index Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 0.70% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 0.31% (28 Feb 2026)\n- Tracking Error (Direct Plan): 0.0436% (02 Mar 2026)\n- Tracking Error (Regular Plan): 0.0495% (02 Mar 2026)\n- Sharpe Ratio: 1.03\n- Standard Deviation: 16.58%\n- Beta: 1\nTRACKING DIFFERENCE (as on 31 Jan 2026):\nDirect Plan 1Y: -0.377, 3Y: -0.4307, SI: -0.4322\nRegular Plan 1Y: -0.8097, 3Y: -0.9757, SI: -0.9688",
+    "char_len": 497
+  },
+  {
+    "chunk_id": "quant_sbi_next50_chunk_001",
+    "doc_id": "quant_sbi_next50",
+    "source": "Official Quantitative Dataset",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 1,
+    "text": "Tracking difference is computed based on annualised returns of dividend-adjusted NAVs.",
+    "char_len": 86
   }
 ]
