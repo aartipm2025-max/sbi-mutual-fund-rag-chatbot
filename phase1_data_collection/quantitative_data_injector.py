@@ -17,7 +17,7 @@ QUANT_DATA = [
     {
         "doc_id": "quant_sbi_infra",
         "source": "Official Quantitative Dataset",
-        "url": "https://www.sbimf.com",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-infrastructure-fund-85",
         "text": """SCHEME NAME: SBI Infrastructure Fund
 QUANTITATIVE METRICS (as on Feb/Mar 2026):
 - Expense Ratio (Regular Plan): 1.93% (28 Feb 2026)
@@ -37,7 +37,7 @@ IDCW HISTORY:
     {
         "doc_id": "quant_sbi_large_midcap",
         "source": "Official Quantitative Dataset",
-        "url": "https://www.sbimf.com",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-large--midcap-fund-2",
         "text": """SCHEME NAME: SBI Large & Midcap Fund
 QUANTITATIVE METRICS (as on Feb/Mar 2026):
 - Expense Ratio (Regular Plan): 1.55% (28 Feb 2026)
@@ -59,7 +59,7 @@ IDCW HISTORY:
     {
         "doc_id": "quant_sbi_elss",
         "source": "Official Quantitative Dataset",
-        "url": "https://www.sbimf.com",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3",
         "text": """SCHEME NAME: SBI ELSS Tax Saver Fund
 QUANTITATIVE METRICS (as on Feb/Mar 2026):
 - Expense Ratio (Regular Plan): 1.57% (28 Feb 2026)
@@ -82,7 +82,7 @@ IDCW HISTORY:
     {
         "doc_id": "quant_sbi_next50",
         "source": "Official Quantitative Dataset",
-        "url": "https://www.sbimf.com",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-nifty-next-50-index-fund-587",
         "text": """SCHEME NAME: SBI Nifty Next 50 Index Fund
 QUANTITATIVE METRICS (as on Feb/Mar 2026):
 - Expense Ratio (Regular Plan): 0.70% (28 Feb 2026)

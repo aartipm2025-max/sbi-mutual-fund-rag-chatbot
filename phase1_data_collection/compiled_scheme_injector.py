@@ -18,7 +18,7 @@ CURATED_SCHEMES = [
     {
         "doc_id": "curated_sbi_small_cap",
         "source": "Master Scheme Dataset",
-        "url": "https://www.sbimf.com/en-us/equity-funds/sbi-small-cap-fund",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-small-cap-fund-329",
         "text": """DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET
 SCHEME NAME: SBI Small Cap Fund
 SCHEME TYPE: Open-ended equity scheme investing predominantly in small-cap stocks
@@ -39,7 +39,7 @@ MINIMUM SIP: ₹500"""
     {
         "doc_id": "curated_sbi_large_midcap",
         "source": "Master Scheme Dataset",
-        "url": "https://www.sbimf.com/en-us/equity-funds/sbi-large-midcap-fund",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-large--midcap-fund-2",
         "text": """DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET
 SCHEME NAME: SBI Large & Midcap Fund
 SCHEME TYPE: Open-ended equity scheme investing in large-cap and mid-cap stocks
@@ -60,7 +60,7 @@ MINIMUM SIP: ₹500"""
     {
         "doc_id": "curated_sbi_elss_taxsaver",
         "source": "Master Scheme Dataset",
-        "url": "https://www.sbimf.com/en-us/equity-funds/sbi-long-term-equity-fund",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3",
         "text": """DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET
 SCHEME NAME: SBI ELSS Tax Saver Fund
 SCHEME TYPE: Open-ended Equity Linked Saving Scheme (ELSS)
@@ -81,7 +81,7 @@ MINIMUM SIP: ₹500"""
     {
         "doc_id": "curated_sbi_nifty_next50",
         "source": "Master Scheme Dataset",
-        "url": "https://www.sbimf.com/en-us/index-funds/sbi-nifty-next-50-index-fund",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-nifty-next-50-index-fund-587",
         "text": """DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET
 SCHEME NAME: SBI Nifty Next 50 Index Fund
 SCHEME TYPE: Open-ended index fund tracking Nifty Next 50 Index
@@ -101,7 +101,7 @@ MINIMUM SIP: ₹500"""
     {
         "doc_id": "curated_sbi_infrastructure",
         "source": "Master Scheme Dataset",
-        "url": "https://www.sbimf.com/en-us/equity-funds/sbi-infrastructure-fund",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-infrastructure-fund-85",
         "text": """DOCUMENT TYPE: MUTUAL FUND SCHEME FACTSHEET
 SCHEME NAME: SBI Infrastructure Fund
 SCHEME TYPE: Open-ended equity scheme investing in infrastructure and allied sectors

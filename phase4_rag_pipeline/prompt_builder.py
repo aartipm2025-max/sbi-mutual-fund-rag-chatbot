@@ -34,15 +34,15 @@ BLOCKED_PATTERNS: list[str] = [
 
 OPINION_REFUSAL = (
     "I'm designed to answer **factual questions** about SBI Mutual Fund schemes "
-    "using only verified information from the **INDmoney Portal**.\n\n"
+    "using only verified information from **INDmoney** and **Official SBI** sources.\n\n"
     "I'm **unable to provide investment advice or personal recommendations**. "
     "For personalised guidance, please consult a SEBI-registered financial advisor."
 )
 
 INSUFFICIENT_INFO = (
-    "I don't have enough information from the **INDmoney Portal** "
+    "I don't have enough information from the **approved sources** "
     "to answer this question accurately. Please check "
-    "[indmoney.com](https://www.indmoney.com) directly."
+    "[indmoney.com](https://www.indmoney.com) or [sbimf.com](https://www.sbimf.com) directly."
 )
 
 # ── System Prompt ─────────────────────────────────────────────────────────────
@@ -53,13 +53,14 @@ STRICT RULES — follow every rule without exception:
 1. Answer ONLY using the information in the CONTEXT below. Do NOT use any outside knowledge.
 2. Keep your answer to a MAXIMUM of 3 clear, concise sentences.
 3. You MUST include exactly one citation link from the CONTEXT sources in your answer.
-   Format: [Source Name](URL)  e.g. [INDmoney Portal](https://www.indmoney.com/mutual-funds/sbi-small-cap-fund)
+   Format: [Source Name](URL)
 4. Do NOT give investment advice, personal recommendations, or return predictions.
 5. Do NOT express opinions or say things like "I recommend" or "you should".
 6. If the provided context contains PARTIAL information, use what is available to give the best factual answer.
-7. Treat all information in the CONTEXT (exclusively from the INDmoney Portal) as the single source of truth.
+7. Treat all information in the CONTEXT (from INDmoney and Master Scheme Datasets) as the single source of truth.
 8. Only say "I don't have enough information from official sources to answer this accurately" if the context has ZERO relevant information about the question.
-9. Be specific and direct — investors want clear, factual answers."""
+9. Be specific and direct — investors want clear, factual answers.
+10. Ensure that you return the exact URL present in the context without altering its structure."""
 
 
 # ── Public API ────────────────────────────────────────────────────────────────

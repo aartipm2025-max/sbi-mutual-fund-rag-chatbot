@@ -1,9 +1,9 @@
 {
   "doc_id": "quant_sbi_next50",
   "source": "Official Quantitative Dataset",
-  "url": "https://www.sbimf.com",
-  "fetched_at": "2026-03-05T12:37:50.698689",
-  "processed_at": "2026-03-05T12:37:50.806240",
+  "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-nifty-next-50-index-fund-587",
+  "fetched_at": "2026-03-05T12:50:57.017046",
+  "processed_at": "2026-03-05T12:50:57.127539",
   "word_count": 95,
   "text": "SCHEME NAME: SBI Nifty Next 50 Index Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 0.70% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 0.31% (28 Feb 2026)\n- Tracking Error (Direct Plan): 0.0436% (02 Mar 2026)\n- Tracking Error (Regular Plan): 0.0495% (02 Mar 2026)\n- Sharpe Ratio: 1.03\n- Standard Deviation: 16.58%\n- Beta: 1\nTRACKING DIFFERENCE (as on 31 Jan 2026):\nDirect Plan 1Y: -0.377, 3Y: -0.4307, SI: -0.4322\nRegular Plan 1Y: -0.8097, 3Y: -0.9757, SI: -0.9688\nTracking difference is computed based on annualised returns of dividend-adjusted NAVs."
 }
