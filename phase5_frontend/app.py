@@ -278,8 +278,11 @@ st.markdown("""
     <span class="mf-header-icon">🏦</span>
     <h1 class="mf-header-title">INDMoney SBI Mutual Fund Facts Assistant</h1>
     <p class="mf-header-subtitle">Facts-only information sourced from AMC, SEBI, and AMFI.</p>
-    <div style="font-size: 0.75rem; color: #00C9A7; margin-top: 0.8rem; opacity: 0.9;">
+    <div style="font-size: 0.75rem; color: #00C9A7; margin-top: 0.8rem; opacity: 0.9; font-weight: 500;">
         Currently trained on 5 major SBI Funds
+    </div>
+    <div style="font-size: 0.65rem; color: #4A607A; margin-top: 0.3rem; line-height: 1.4; max-width: 400px; margin-left: auto; margin-right: auto;">
+        SBI Small Cap | SBI Large & Midcap | SBI ELSS Tax Saver | SBI Nifty Next 50 | SBI Infrastructure
     </div>
     <div class="mf-teal-bar"></div>
 </div>
