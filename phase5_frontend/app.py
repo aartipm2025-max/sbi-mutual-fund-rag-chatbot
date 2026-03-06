@@ -278,16 +278,39 @@ st.markdown("""
     <span class="mf-header-icon">🏦</span>
     <h1 class="mf-header-title">INDMoney SBI Mutual Fund Facts Assistant</h1>
     <p class="mf-header-subtitle">Facts-only information sourced from AMC, SEBI, and AMFI.</p>
+    <div style="font-size: 0.75rem; color: #00C9A7; margin-top: 0.8rem; opacity: 0.9;">
+        Currently trained on 5 major SBI Funds
+    </div>
     <div class="mf-teal-bar"></div>
 </div>
 """, unsafe_allow_html=True)
 
+# ── Sidebar Training Info ─────────────────────────────────────────────────────
+with st.sidebar:
+    st.markdown("### 📊 Knowledge Base")
+    st.markdown("""
+    This assistant is specifically trained on the following **SBI Mutual Fund** schemes:
+    
+    *   **SBI Small Cap Fund**
+    *   **SBI Large & Midcap Fund**
+    *   **SBI ELSS Tax Saver Fund**
+    *   **SBI Nifty Next 50 Index Fund**
+    *   **SBI Infrastructure Fund**
+    
+    ---
+    **Data Sources:**
+    *   Official SBI AMC Factsheets
+    *   SEBI Regulatory Circulars
+    *   AMFI Knowledge Portal
+    """)
+    st.info("Ask about NAV, Expense Ratio, Exit Load, or Fund Managers for these schemes.")
+
 # ── Suggestion Chips Display ──────────────────────────────────────────────────
 SUGGESTIONS = [
-    ("💹", "Expense ratio of SBI Bluechip Fund"),
-    ("🔒", "ELSS lock-in period"),
-    ("📅", "Minimum SIP for SBI Flexicap Fund"),
-    ("📄", "How to download capital gains statement?"),
+    ("📊", "Expense ratio of SBI Small Cap Fund"),
+    ("🔍", "Fund manager of SBI Infrastructure Fund"),
+    ("🔒", "Lock-in period for SBI ELSS Tax Saver"),
+    ("📈", "NAV of SBI Nifty Next 50 Index Fund"),
 ]
 
 # ── Session State Init ────────────────────────────────────────────────────────
