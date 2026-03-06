@@ -129,3 +129,27 @@ streamlit run phase5_frontend/app.py
 
 This chatbot provides **factual information only** from official public sources (SBI AMC, SEBI, AMFI).
 It does **not** constitute investment advice. Always consult a SEBI-registered financial advisor before investing.
+
+SOURCES
+source_id,source_name,url,category,scrape_priority
+indmoney_sbi_small_cap,INDmoney,https://www.indmoney.com/mutual-funds/sbi-small-cap-fund,Scheme Page,2
+indmoney_sbi_large_midcap,INDmoney,https://www.indmoney.com/mutual-funds/sbi-large-midcap-fund,Scheme Page,2
+indmoney_sbi_elss,INDmoney,https://www.indmoney.com/mutual-funds/sbi-elss-tax-saver-fund,Scheme Page,2
+indmoney_sbi_nifty_next50,INDmoney,https://www.indmoney.com/mutual-funds/sbi-nifty-next-50-index-fund,Scheme Page,2
+indmoney_sbi_infra,INDmoney,https://www.indmoney.com/mutual-funds/sbi-infrastructure-fund,Scheme Page,2
+sbi_small_cap_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-small-cap-fund-329,Official Factsheet,1
+sbi_large_midcap_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-large--midcap-fund-2,Official Factsheet,1
+sbi_elss_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3,Official Factsheet,1
+sbi_nifty_next50_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-nifty-next-50-index-fund-587,Official Factsheet,1
+sbi_infra_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-infrastructure-fund-85,Official Factsheet,1
+sebi_riskometer_circular,SEBI,https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html,Regulatory,1
+sebi_riskometer_info,SEBI,https://investor.sebi.gov.in/riskometer.html,Knowledge,1
+sebi_circulars_list,SEBI,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0,Regulatory,2
+amfi_knowledge_info,AMFI,https://www.amfiindia.com/investor/knowledge-center-info,Knowledge,1
+amfi_mf_knowledge,AMFI,https://www.amfiindia.com/investor/knowledge-center/mutual-fund,Knowledge,1
+amfi_sip_knowledge,AMFI,https://www.amfiindia.com/investor/knowledge-center/sip,Knowledge,1
+amfi_kyc_knowledge,AMFI,https://www.amfiindia.com/investor/knowledge-center/kyc-norms,Knowledge,1
+amfi_risks_knowledge,AMFI,https://www.amfiindia.com/investor/knowledge-center/risks-in-mutual-funds,Knowledge,1
+cams_statements,CAMS,https://www.camsonline.com/Investors/Statements,Services,3
+
+
