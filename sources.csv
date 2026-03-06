@@ -1,8 +1,12 @@
 source_id,source_name,url,category,scrape_priority
-url,source_type,scheme_name,document_type
-https://www.indmoney.com/mutual-funds/sbi-small-cap-fund,INDmoney,SBI Small Cap Fund,Scheme Page
-https://www.indmoney.com/mutual-funds/sbi-large-midcap-fund,INDmoney,SBI Large & Midcap Fund,Scheme Page
-https://www.indmoney.com/mutual-funds/sbi-elss-tax-saver-fund,INDmoney,SBI ELSS Tax Saver Fund,Scheme Page
-https://www.indmoney.com/mutual-funds/sbi-nifty-next-50-index-fund,INDmoney,SBI Nifty Next 50 Index Fund,Scheme Page
-https://www.indmoney.com/mutual-funds/sbi-infrastructure-fund,INDmoney,SBI Infrastructure Fund,Scheme Page
-https://www.camsonline.com/Investors/Statements,CAMS,Statements,Capital Gains Statement
+indmoney_sbi_small_cap,INDmoney,https://www.indmoney.com/mutual-funds/sbi-small-cap-fund,Scheme Page,2
+indmoney_sbi_large_midcap,INDmoney,https://www.indmoney.com/mutual-funds/sbi-large-midcap-fund,Scheme Page,2
+indmoney_sbi_elss,INDmoney,https://www.indmoney.com/mutual-funds/sbi-elss-tax-saver-fund,Scheme Page,2
+indmoney_sbi_nifty_next50,INDmoney,https://www.indmoney.com/mutual-funds/sbi-nifty-next-50-index-fund,Scheme Page,2
+indmoney_sbi_infra,INDmoney,https://www.indmoney.com/mutual-funds/sbi-infrastructure-fund,Scheme Page,2
+sbi_small_cap_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-small-cap-fund-329,Official Factsheet,1
+sbi_large_midcap_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-large--midcap-fund-2,Official Factsheet,1
+sbi_elss_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3,Official Factsheet,1
+sbi_nifty_next50_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-nifty-next-50-index-fund-587,Official Factsheet,1
+sbi_infra_official,SBI AMC,https://www.sbimf.com/sbimf-scheme-details/sbi-infrastructure-fund-85,Official Factsheet,1
+cams_statements,CAMS,https://www.camsonline.com/Investors/Statements,Services,3

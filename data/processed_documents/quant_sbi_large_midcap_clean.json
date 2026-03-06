@@ -2,8 +2,8 @@
   "doc_id": "quant_sbi_large_midcap",
   "source": "Official Quantitative Dataset",
   "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-large--midcap-fund-2",
-  "fetched_at": "2026-03-05T12:50:57.016074",
-  "processed_at": "2026-03-05T12:50:57.127027",
+  "fetched_at": "2026-03-05T15:34:09.794495",
+  "processed_at": "2026-03-05T23:39:41.375548",
   "word_count": 108,
   "text": "SCHEME NAME: SBI Large & Midcap Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 1.55% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 0.72% (28 Feb 2026)\n- Sharpe Ratio: 1.23\n- Standard Deviation: 10.84%\n- Beta: 0.79\n- Source: CRISIL Fund Analyser\n- Risk-Free Rate Used: FBIL Overnight MIBOR 9.39% (30 Sep 2024)\n- Calculation Basis: 3 Years Monthly Data Points\nIDCW HISTORY:\n- Plan: SBI Large & Midcap Fund - Regular Plan - IDCW\n- 09 Mar 2018: IDCW ₹11 (NAV ₹94.1106)\n- 27 Feb 2017: IDCW ₹7.8 (NAV ₹89.6546)\n- 12 Sep 2014: IDCW ₹11.5 (NAV ₹74.96410)\n- Face Value: ₹10"
 }

@@ -2,8 +2,8 @@
   "doc_id": "quant_sbi_infra",
   "source": "Official Quantitative Dataset",
   "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-infrastructure-fund-85",
-  "fetched_at": "2026-03-05T12:50:57.015083",
-  "processed_at": "2026-03-05T12:50:57.126472",
+  "fetched_at": "2026-03-05T15:34:09.723199",
+  "processed_at": "2026-03-05T23:39:41.373062",
   "word_count": 100,
   "text": "SCHEME NAME: SBI Infrastructure Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 1.93% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 1.04% (28 Feb 2026)\n- Tracking Error (Regular Plan): 5.7594% (02 Mar 2026)\n- Sharpe Ratio: 1.04\n- Standard Deviation: 15.19%\n- Beta: 0.88\n- Tracking Error Calculation: 1-year period ending 02 Mar 2026 based on day-end NAV (Total Returns Index).\n- Expense Ratio Note: Inclusive of GST on management fees.\nIDCW HISTORY:\n- Plan: SBI Infrastructure Fund - Regular Plan - IDCW\n- 16 Mar 2018: IDCW ₹1.7 (NAV ₹13.6863)\n- Face Value: ₹10"
 }

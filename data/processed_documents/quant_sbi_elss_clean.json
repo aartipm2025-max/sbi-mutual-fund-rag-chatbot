@@ -2,8 +2,8 @@
   "doc_id": "quant_sbi_elss",
   "source": "Official Quantitative Dataset",
   "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3",
-  "fetched_at": "2026-03-05T12:50:57.016074",
-  "processed_at": "2026-03-05T12:50:57.125782",
+  "fetched_at": "2026-03-05T15:34:09.817035",
+  "processed_at": "2026-03-05T23:39:41.357173",
   "word_count": 116,
   "text": "SCHEME NAME: SBI ELSS Tax Saver Fund\nQUANTITATIVE METRICS (as on Feb/Mar 2026):\n- Expense Ratio (Regular Plan): 1.57% (28 Feb 2026)\n- Expense Ratio (Direct Plan): 0.92% (28 Feb 2026)\n- Sharpe Ratio: 1.36\n- Standard Deviation: 12.81%\n- Beta: 0.97\n- Source: CRISIL Fund Analyser\n- Risk-Free Rate Used: FBIL Overnight MIBOR 9.39% (30 Sep 2024)\n- Calculation Basis: 3 Years Monthly Data Points\nIDCW HISTORY:\n- Plan: SBI ELSS Tax Saver Fund - Direct Plan - IDCW\n- 24 Mar 2023: IDCW ₹6.8 (NAV ₹60.5306)\n- 17 Mar 2022: IDCW ₹6.5 (NAV ₹62.9052)\n- 06 Mar 2020: IDCW ₹3.8072572 (NAV ₹42.3469)\n- 08 Mar 2019: IDCW ₹3.8072572 (NAV ₹48.1586)\n- Face Value: ₹10"
 }

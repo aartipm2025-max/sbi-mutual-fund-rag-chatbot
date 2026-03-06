@@ -1,0 +1,9 @@
+{
+  "doc_id": "master_statements",
+  "source": "Master Official Data",
+  "url": "https://www.sbimf.com",
+  "fetched_at": "2026-03-05T23:39:40.655314",
+  "processed_at": "2026-03-05T23:39:41.345184",
+  "word_count": 66,
+  "text": "TOPIC: Capital Gains Statement\nDESCRIPTION: Investors can download their capital gains statement through the CAMS portal used by SBI Mutual Fund.\nSTEPS: ['Visit the CAMS website', \"Select 'Capital Gains Statement'\", 'Enter PAN and registered email', 'Download the statement']\nSOURCE URL: https://www.camsonline.com/Investors/Statements\nTOPIC: Account Statement\nDESCRIPTION: Investors can download mutual fund account statements through the SBI Mutual Fund investor service page or through CAMS.\nSOURCE URL: https://www.sbimf.com/en-us/investor-service"
+}

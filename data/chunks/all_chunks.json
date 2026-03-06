@@ -1,5 +1,266 @@
 [
   {
+    "chunk_id": "amfi_expense_ratio_chunk_000",
+    "doc_id": "amfi_expense_ratio",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 0,
+    "text": "Expense Ratio in Mutual Funds\nThe Expense Ratio (also called Total Expense Ratio or TER) is the annual fee charged by a mutual fund to cover its operating expenses, expressed as a percentage of the fund's average daily Net Assets Under Management (AUM).\nWhat Does Expense Ratio Cover?\n- Fund management fee (paid to the fund manager / AMC)\n- Administrative and operational costs\n- Registrar and Transfer Agent (RTA) fees\n- Custodian fees\n- Marketing and distribution costs (in Regular Plans)",
+    "char_len": 491
+  },
+  {
+    "chunk_id": "amfi_expense_ratio_chunk_001",
+    "doc_id": "amfi_expense_ratio",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 1,
+    "text": "- SEBI registration fees\nHow It Impacts Returns:\nExpense ratio is deducted from the fund's NAV daily (proportionate daily deduction). It is NOT separately charged to the investor.\nExample:\n- If a fund earns a gross return of 12% and its expense ratio is 1.5%, the investor's net return = ~10.5%.\n- Lower expense ratio = higher net return to the investor (all else being equal).\nSEBI Limits on Total Expense Ratio (TER):\nAs per SEBI Circular (September 2018), maximum TER limits are:\nEquity Schemes:",
+    "char_len": 498
+  },
+  {
+    "chunk_id": "amfi_expense_ratio_chunk_002",
+    "doc_id": "amfi_expense_ratio",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 2,
+    "text": "Equity Schemes:\n- First ₹500 crore AUM: 2.25%\n- ₹500-₹750 crore: 2.00%\n- ₹750-₹2,000 crore: 1.75%\n- ₹2,000-₹5,000 crore: 1.60%\n- ₹5,000-₹10,000 crore: 1.50%\n- ₹10,000-₹50,000 crore: TER reduces by 0.05% for every ₹5,000 crore\n- Above ₹50,000 crore: 1.05%\nDebt Schemes: 25 bps lower than equity limits.\nIndex Funds / ETFs: Max 1.00% TER.\nFund of Funds: Max 2.25% (investing in equity) or 2.00% (investing in debt).\nRegular Plan vs. Direct Plan:",
+    "char_len": 443
+  },
+  {
+    "chunk_id": "amfi_expense_ratio_chunk_003",
+    "doc_id": "amfi_expense_ratio",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 3,
+    "text": "Regular Plan vs. Direct Plan:\n- Regular Plan: Higher TER (includes distributor commission ~0.5-1%).\n- Direct Plan: Lower TER (no distributor commission; investor invests directly with AMC).\n- Difference: 0.5% to 1.5% lower TER in Direct Plans, which compounds significantly over long periods.\nWhere to Find Expense Ratio:\n- AMC website (Scheme Information Document / Key Information Memorandum)\n- AMFI website: amfiindia.com\n- SEBI mandates disclosure of TER on AMC websites by 10th of each month.",
+    "char_len": 497
+  },
+  {
+    "chunk_id": "amfi_expense_ratio_chunk_004",
+    "doc_id": "amfi_expense_ratio",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 4,
+    "text": "Source: AMFI & SEBI | amfiindia.com | sebi.gov.in",
+    "char_len": 49
+  },
+  {
+    "chunk_id": "amfi_kyc_and_investing_chunk_000",
+    "doc_id": "amfi_kyc_and_investing",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 0,
+    "text": "KYC Requirements and How to Invest in Mutual Funds in India\nKYC (Know Your Customer) is a mandatory one-time process required for investing in any mutual fund in India. It is regulated by SEBI and AMFI.\nKYC Documents Required:\n1. Identity Proof (any one): PAN Card (mandatory), Aadhaar, Passport, Voter ID, Driving Licence\n2. Address Proof (any one): Aadhaar, Passport, Utility Bill (not older than 3 months), Bank Statement\n3. Recent Passport-size Photograph",
+    "char_len": 459
+  },
+  {
+    "chunk_id": "amfi_kyc_and_investing_chunk_001",
+    "doc_id": "amfi_kyc_and_investing",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 1,
+    "text": "3. Recent Passport-size Photograph\n4. PAN Card: Mandatory for investments above ₹50,000 per year.\nKYC Process:\n- KYC is done once through a SEBI-registered KYC Registration Agency (KRA).\n- KRAs: CDSL Ventures (CVL), NDML, CAMS, Karvy, NSE.\n- Once KYC is completed, it is valid for ALL mutual fund investments in India with any AMC.\n- eKYC (Aadhaar-based) is available for investments up to ₹50,000 per year.\n- Video KYC: Full KYC via video call; no investment limit.",
+    "char_len": 466
+  },
+  {
+    "chunk_id": "amfi_kyc_and_investing_chunk_002",
+    "doc_id": "amfi_kyc_and_investing",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 2,
+    "text": "Steps to Invest in SBI Mutual Fund:\n1. Complete KYC (if not done already).\n2. Choose a scheme from sbimf.com or via a registered platform (INDMoney, etc.).\n3. Register online at sbimf.com or download the SBI MF App.\n4. Select Investment Mode: Lump Sum or SIP.\n5. Enter Amount, Select Bank Account, Confirm.\n6. Units allotted at applicable NAV.\n7. Account Statement sent to registered email / accessible online.\nMinimum Investment Amounts (SBI MF, approximate):",
+    "char_len": 460
+  },
+  {
+    "chunk_id": "amfi_kyc_and_investing_chunk_003",
+    "doc_id": "amfi_kyc_and_investing",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 3,
+    "text": "Minimum Investment Amounts (SBI MF, approximate):\n- Lump Sum: ₹1,000 (most equity schemes), ₹5,000 (some debt schemes)\n- SIP Minimum: ₹500/month (most schemes)\n- ELSS / Tax Saver: ₹500 lump sum, ₹500 SIP\nRedemption (Withdrawal):\n- Submit redemption request online on sbimf.com or via AMC app.\n- Redemption proceeds credited within 1-3 business days (T+1 for liquid funds; T+3 for equity).",
+    "char_len": 388
+  },
+  {
+    "chunk_id": "amfi_kyc_and_investing_chunk_004",
+    "doc_id": "amfi_kyc_and_investing",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 4,
+    "text": "- Exit Load may apply if redeemed within the specified period (e.g., 1% for equity if redeemed within 12 months).\nTax on Mutual Fund Gains (India FY 2024-25):\n- Equity Funds (held > 1 year): Long-Term Capital Gains (LTCG) = 12.5% above ₹1.25 lakh/year.\n- Equity Funds (held ≤ 1 year): Short-Term Capital Gains (STCG) = 20%.\n- Debt Funds: Taxed at investor's income tax slab rate (both short and long term).",
+    "char_len": 406
+  },
+  {
+    "chunk_id": "amfi_kyc_and_investing_chunk_005",
+    "doc_id": "amfi_kyc_and_investing",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 5,
+    "text": "- ELSS: 3-year lock-in; gains taxed as LTCG after lock-in; deduction under Section 80C up to ₹1.5 lakh.\nGrievance Redressal:\n- AMC customer care: 1800-209-3333 (SBI MF toll-free)\n- SEBI SCORES portal: scores.gov.in (online complaint registration)\n- AMFI: 1800-267-5490 (investor helpline)\nSource: AMFI & SEBI | amfiindia.com | sebi.gov.in | sbimf.com",
+    "char_len": 350
+  },
+  {
+    "chunk_id": "amfi_nav_explained_chunk_000",
+    "doc_id": "amfi_nav_explained",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/net-asset-value",
+    "chunk_idx": 0,
+    "text": "Net Asset Value (NAV) - Explained\nNet Asset Value (NAV) is the per-unit market value of a mutual fund scheme. It indicates the price at which investors buy (subscribe) or sell (redeem) units of a mutual fund.\nNAV Formula:\nNAV = (Market Value of Total Assets - Total Liabilities) / Total Number of Units Outstanding\nFor example:\n- If a fund has total assets worth ₹10 crore and 10 lakh units outstanding:\n- NAV = ₹10,00,00,000 / 10,00,000 = ₹100 per unit\nKey Facts About NAV:",
+    "char_len": 474
+  },
+  {
+    "chunk_id": "amfi_nav_explained_chunk_001",
+    "doc_id": "amfi_nav_explained",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/net-asset-value",
+    "chunk_idx": 1,
+    "text": "Key Facts About NAV:\n- NAV is calculated and published at the end of every business day (by 11:00 PM IST as per SEBI guidelines).\n- NAV reflects the current market value of the fund's portfolio minus expenses.\n- For equity funds, NAV changes daily as stock prices change.\n- For liquid and overnight funds, NAV changes daily due to interest accrual.\n- NAV is NOT a performance indicator on its own. A high NAV doesn't mean the fund is expensive; it reflects the fund's history of growth.",
+    "char_len": 486
+  },
+  {
+    "chunk_id": "amfi_nav_explained_chunk_002",
+    "doc_id": "amfi_nav_explained",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/net-asset-value",
+    "chunk_idx": 2,
+    "text": "Applicability of NAV:\n- For equity and hybrid funds (non-liquid): NAV applicable is of the day the order is received before 3:00 PM.\n- For liquid and overnight funds: NAV applicable is of the next business day (T+1 NAV as per SEBI).\n- For orders received after 3:00 PM cut-off: Next day's NAV is applicable.\nExample of NAV-based Unit Allotment:\n- Investment Amount: ₹10,000\n- Applicable NAV: ₹50\n- Units Allotted = ₹10,000 / ₹50 = 200 units\nGrowth vs. IDCW (Dividend) NAV:",
+    "char_len": 472
+  },
+  {
+    "chunk_id": "amfi_nav_explained_chunk_003",
+    "doc_id": "amfi_nav_explained",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/net-asset-value",
+    "chunk_idx": 3,
+    "text": "Growth vs. IDCW (Dividend) NAV:\n- Growth NAV: Profits are reinvested; NAV grows over time.\n- IDCW (formerly Dividend) NAV: Profits are distributed periodically, causing NAV to fall by the distribution amount.\nWhere to Check NAV:\n- AMFI website: amfiindia.com (daily NAV data for all schemes)\n- AMC websites: e.g., sbimf.com/mutual-fund-nav\n- SEBI-registered platforms: INDMoney, Zerodha Coin, etc.\n- Newspapers (next-day publication)",
+    "char_len": 433
+  },
+  {
+    "chunk_id": "amfi_nav_explained_chunk_004",
+    "doc_id": "amfi_nav_explained",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/net-asset-value",
+    "chunk_idx": 4,
+    "text": "- Newspapers (next-day publication)\nSource: AMFI - Association of Mutual Funds in India | amfiindia.com",
+    "char_len": 103
+  },
+  {
+    "chunk_id": "amfi_sip_guide_chunk_000",
+    "doc_id": "amfi_sip_guide",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 0,
+    "text": "What is a Systematic Investment Plan (SIP)?\nA Systematic Investment Plan (SIP) is a method of investing a fixed sum regularly (monthly, quarterly, or weekly) in a mutual fund scheme. SIP is one of the most popular and disciplined ways to invest in mutual funds, especially for retail investors.\nHow SIP Works:\n- An investor chooses a fixed amount and frequency (e.g., ₹1,000 per month).\n- On the specified date, the amount is automatically debited from the investor's bank account.",
+    "char_len": 481
+  },
+  {
+    "chunk_id": "amfi_sip_guide_chunk_001",
+    "doc_id": "amfi_sip_guide",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 1,
+    "text": "- The debited amount purchases units of the chosen mutual fund scheme at the prevailing NAV.\n- Over time, the investor accumulates units at different NAVs.\n- This process is known as Rupee Cost Averaging.\nKey Features of SIP:\n- Minimum Investment: As low as ₹100 per month in some schemes (varies by AMC).\n- Flexibility: SIP amount, frequency, and tenure can be modified or cancelled.\n- Auto-debit: Investments are debited automatically through a bank mandate (ECS/NACH).",
+    "char_len": 471
+  },
+  {
+    "chunk_id": "amfi_sip_guide_chunk_002",
+    "doc_id": "amfi_sip_guide",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 2,
+    "text": "- No Timing the Market: Regular investing removes the need to predict market highs/lows.\nBenefits of SIP:\n1. Rupee Cost Averaging: When NAV is high, fewer units are purchased; when NAV is low, more units bought. Averages out the cost per unit over time.\n2. Power of Compounding: Returns earned are reinvested, generating returns on returns over the long term.\n3. Disciplined Investing: Builds a savings habit via automatic, regular investments.",
+    "char_len": 444
+  },
+  {
+    "chunk_id": "amfi_sip_guide_chunk_003",
+    "doc_id": "amfi_sip_guide",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 3,
+    "text": "4. Affordable: Start with small amounts; increase as income grows (Step-up SIP).\n5. Flexible: Pause, increase, decrease, or stop SIP anytime (most schemes).\nTypes of SIP:\n1. Regular SIP: Fixed amount at fixed intervals.\n2. Step-up (Top-up) SIP: Amount increases annually or at defined intervals.\n3. Flexible SIP: Amount varies based on investor's choice or market levels.\n4. Trigger SIP: Investment triggered by specific market conditions (index level, NAV level).",
+    "char_len": 464
+  },
+  {
+    "chunk_id": "amfi_sip_guide_chunk_004",
+    "doc_id": "amfi_sip_guide",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 4,
+    "text": "5. Perpetual SIP: No end date; continues until investor cancels.\nMinimum SIP Amounts (approximate, varies by fund):\n- SBI Blue Chip Fund: ₹500/month\n- SBI Small Cap Fund: ₹500/month\n- SBI ELSS (Tax Saver): ₹500/month\n- SBI Liquid Fund: ₹500/month\nHow to Start a SIP in SBI Mutual Fund:\n1. Complete KYC (once, valid for all mutual fund investments).\n2. Register on sbimf.com or use INDMoney / any AMFI-registered distributor.\n3. Select scheme, SIP date, and amount.",
+    "char_len": 464
+  },
+  {
+    "chunk_id": "amfi_sip_guide_chunk_005",
+    "doc_id": "amfi_sip_guide",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 5,
+    "text": "3. Select scheme, SIP date, and amount.\n4. Set up bank auto-debit mandate (NACH/ECS).\n5. SIP starts from the next selected date.\nImportant Notes:\n- SIP does not guarantee profits or protect against losses in declining markets.\n- Past SIP returns do not indicate future performance.\n- ELSS SIP units: Each SIP instalment has a separate 3-year lock-in period.\nSource: AMFI - Association of Mutual Funds in India | amfiindia.com",
+    "char_len": 425
+  },
+  {
+    "chunk_id": "amfi_what_is_mf_chunk_000",
+    "doc_id": "amfi_what_is_mf",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 0,
+    "text": "What is a Mutual Fund?\nA mutual fund is a professionally managed investment scheme that pools money from many investors and invests it in securities such as stocks, bonds, money market instruments, and other assets. Mutual funds are operated by professional fund managers (Asset Management Companies or AMCs), who invest the fund's capital and attempt to produce capital gains and income for the fund's investors.",
+    "char_len": 413
+  },
+  {
+    "chunk_id": "amfi_what_is_mf_chunk_001",
+    "doc_id": "amfi_what_is_mf",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 1,
+    "text": "Mutual funds are ideal for investors who do not have the time or expertise to manage their own portfolio. They provide access to professionally managed, diversified portfolios of equities, bonds, and other securities.\nHow Mutual Funds Work:\n- Investors buy \"units\" of a mutual fund scheme.\n- Each unit represents an investor's share in the scheme's assets and liabilities.\n- The price of each unit is called the Net Asset Value (NAV).",
+    "char_len": 434
+  },
+  {
+    "chunk_id": "amfi_what_is_mf_chunk_002",
+    "doc_id": "amfi_what_is_mf",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 2,
+    "text": "- NAV = (Total Assets - Total Liabilities) / Number of Units Outstanding\n- NAV is calculated and published daily by all AMCs.\nTypes of Mutual Fund Schemes (per SEBI Categorisation):\n1. Equity Schemes - Invest primarily in equity and equity-related instruments.\n2. Debt Schemes - Invest primarily in fixed income instruments like bonds, debentures, government securities.\n3. Hybrid Schemes - Invest in a mix of equity and debt instruments.",
+    "char_len": 438
+  },
+  {
+    "chunk_id": "amfi_what_is_mf_chunk_003",
+    "doc_id": "amfi_what_is_mf",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 3,
+    "text": "4. Solution-Oriented Schemes - Designed for specific goals like retirement or children's education (with lock-in periods).\n5. Other Schemes - Index funds, ETFs, Fund of Funds (FoFs).\nRegulatory Framework:\n- All mutual funds in India are registered with SEBI (Securities and Exchange Board of India).\n- AMFI (Association of Mutual Funds in India) is the self-regulatory organization for mutual fund distributors and promotes investor education.",
+    "char_len": 443
+  },
+  {
+    "chunk_id": "amfi_what_is_mf_chunk_004",
+    "doc_id": "amfi_what_is_mf",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 4,
+    "text": "- SEBI regulates mutual funds under the SEBI (Mutual Funds) Regulations, 1996.\nKey Benefits:\n- Professional Management: Expert fund managers make investment decisions.\n- Diversification: Investments spread across multiple securities, reducing risk.\n- Liquidity: Open-ended fund units can be redeemed on any business day.\n- Affordability: Investors can start with as little as ₹100 (SIP) or ₹500 (lump sum) in some schemes.\n- Transparency: NAV published daily; portfolio disclosed monthly.",
+    "char_len": 488
+  },
+  {
+    "chunk_id": "amfi_what_is_mf_chunk_005",
+    "doc_id": "amfi_what_is_mf",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 5,
+    "text": "- Regulated: Under SEBI oversight to protect investor interests.\nKey Risks:\n- Market Risk: NAV fluctuates with market conditions.\n- Credit Risk: Risk of default by bond issuers (more relevant in debt funds).\n- Liquidity Risk: Some schemes may impose exit loads or have lock-in periods.\n- Interest Rate Risk: Rising interest rates can reduce the value of bond holdings.\nAll mutual fund investments are subject to market risks. Past performance does not guarantee future returns.",
+    "char_len": 477
+  },
+  {
+    "chunk_id": "amfi_what_is_mf_chunk_006",
+    "doc_id": "amfi_what_is_mf",
+    "source": "AMFI",
+    "url": "https://www.amfiindia.com/",
+    "chunk_idx": 6,
+    "text": "Source: AMFI - Association of Mutual Funds in India | amfiindia.com",
+    "char_len": 67
+  },
+  {
     "chunk_id": "curated_sbi_elss_taxsaver_chunk_000",
     "doc_id": "curated_sbi_elss_taxsaver",
     "source": "Master Scheme Dataset",
@@ -113,8 +374,8 @@
     "source": "INDmoney Internal / Official AMC Data",
     "url": "https://www.sbimf.com",
     "chunk_idx": 2,
-    "text": "### 2. Scheme-Level Factual Details\nScheme: SBI Bluechip Fund\nCategory: Large Cap Equity Fund\nAUM: ₹54821 crore\nExpense Ratio: 0.8%\nExit Load: 1% if redeemed within 12 months.\nMin SIP: ₹500\nMin Lumpsum: ₹5000\nBenchmark: Nifty 100\nFund Managers: Sohini Andani, R. Srinivasan\nLaunch Year: 2006\n\nScheme: SBI Small Cap Fund\nCategory: Small Cap Equity Fund\nMin SIP: ₹500\nExit Load: 1% if redeemed within 1 year.\nFund Manager: R. Srinivasan\nBenchmark: Nifty Smallcap 250",
-    "char_len": 464
+    "text": "### 2. Scheme-Level Factual Details\nScheme: SBI Bluechip Fund\nCategory: Large Cap Equity Fund\nAUM: ₹54821 crore\nExpense Ratio: 0.8%\nExit Load: 1% if redeemed within 12 months.\nMin SIP: ₹500\nMin Lumpsum: ₹5000\nBenchmark: Nifty 100\nFund Managers: Sohini Andani, R. Srinivasan\nLaunch Year: 2006\n\nScheme: SBI Small Cap Fund\nCategory: Small Cap Equity Fund\nMin SIP: ₹500\nExpense Ratio: 0.76%\nExit Load: 1% if redeemed within 1 year.\nFund Manager: R. Srinivasan\nBenchmark: Nifty Smallcap 250",
+    "char_len": 485
   },
   {
     "chunk_id": "indmoney_master_knowledge_base_chunk_003",
@@ -369,6 +630,60 @@
     "char_len": 152
   },
   {
+    "chunk_id": "master_schemes_chunk_000",
+    "doc_id": "master_schemes",
+    "source": "Master Official Data",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 0,
+    "text": "SCHEME NAME: SBI Bluechip Fund\nCATEGORY: Large Cap\nBENCHMARK: S&P BSE 100 TRI\nRISKOMETER: Very High\nMINIMUM SIP: ₹500\nMINIMUM LUMPSUM: ₹5000\nEXIT LOAD: 1% if redeemed within 1 year\nLOCK IN: No lock-in\nFUND MANAGER: R Srinivasan\nAMC: SBI Mutual Fund\nSOURCE URL: https://www.sbimf.com/en-us/equity-funds/sbi-bluechip-fund\nSCHEME NAME: SBI Flexicap Fund\nCATEGORY: Flexi Cap\nBENCHMARK: S&P BSE 500 TRI\nRISKOMETER: Very High\nMINIMUM SIP: ₹500\nMINIMUM LUMPSUM: ₹5000\nEXIT LOAD: 1% if redeemed within 1 year",
+    "char_len": 500
+  },
+  {
+    "chunk_id": "master_schemes_chunk_001",
+    "doc_id": "master_schemes",
+    "source": "Master Official Data",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 1,
+    "text": "EXIT LOAD: 1% if redeemed within 1 year\nLOCK IN: No lock-in\nFUND MANAGER: Srinivasan R\nAMC: SBI Mutual Fund\nSOURCE URL: https://www.sbimf.com/en-us/equity-funds/sbi-flexicap-fund\nSCHEME NAME: SBI Long Term Equity Fund\nCATEGORY: ELSS\nBENCHMARK: S&P BSE 500 TRI\nRISKOMETER: Very High\nMINIMUM SIP: ₹500\nMINIMUM LUMPSUM: ₹500\nEXIT LOAD: Nil\nLOCK IN: 3 years\nFUND MANAGER: R Srinivasan\nAMC: SBI Mutual Fund\nSOURCE URL: https://www.sbimf.com/en-us/equity-funds/sbi-long-term-equity-fund",
+    "char_len": 480
+  },
+  {
+    "chunk_id": "master_schemes_chunk_002",
+    "doc_id": "master_schemes",
+    "source": "Master Official Data",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 2,
+    "text": "SCHEME NAME: SBI Nifty Index Fund\nCATEGORY: Index Fund\nBENCHMARK: Nifty 50\nRISKOMETER: Very High\nMINIMUM SIP: ₹500\nMINIMUM LUMPSUM: ₹5000\nEXIT LOAD: Nil\nLOCK IN: No lock-in\nFUND MANAGER: SBI Index Team\nAMC: SBI Mutual Fund\nSOURCE URL: https://www.sbimf.com/en-us/index-funds/sbi-nifty-index-fund\nSCHEME NAME: SBI Equity Hybrid Fund\nCATEGORY: Hybrid\nBENCHMARK: CRISIL Hybrid 35+65 Aggressive Index\nRISKOMETER: Very High\nMINIMUM SIP: ₹500\nMINIMUM LUMPSUM: ₹5000\nEXIT LOAD: 1% if redeemed within 1 year",
+    "char_len": 499
+  },
+  {
+    "chunk_id": "master_schemes_chunk_003",
+    "doc_id": "master_schemes",
+    "source": "Master Official Data",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 3,
+    "text": "EXIT LOAD: 1% if redeemed within 1 year\nLOCK IN: No lock-in\nFUND MANAGER: Dinesh Ahuja\nAMC: SBI Mutual Fund\nSOURCE URL: https://www.sbimf.com/en-us/hybrid-funds/sbi-equity-hybrid-fund",
+    "char_len": 183
+  },
+  {
+    "chunk_id": "master_statements_chunk_000",
+    "doc_id": "master_statements",
+    "source": "Master Official Data",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 0,
+    "text": "TOPIC: Capital Gains Statement\nDESCRIPTION: Investors can download their capital gains statement through the CAMS portal used by SBI Mutual Fund.\nSTEPS: ['Visit the CAMS website', \"Select 'Capital Gains Statement'\", 'Enter PAN and registered email', 'Download the statement']\nSOURCE URL: https://www.camsonline.com/Investors/Statements\nTOPIC: Account Statement\nDESCRIPTION: Investors can download mutual fund account statements through the SBI Mutual Fund investor service page or through CAMS.",
+    "char_len": 494
+  },
+  {
+    "chunk_id": "master_statements_chunk_001",
+    "doc_id": "master_statements",
+    "source": "Master Official Data",
+    "url": "https://www.sbimf.com",
+    "chunk_idx": 1,
+    "text": "SOURCE URL: https://www.sbimf.com/en-us/investor-service",
+    "char_len": 56
+  },
+  {
     "chunk_id": "quant_sbi_elss_chunk_000",
     "doc_id": "quant_sbi_elss",
     "source": "Official Quantitative Dataset",
@@ -439,5 +754,680 @@
     "chunk_idx": 1,
     "text": "Tracking difference is computed based on annualised returns of dividend-adjusted NAVs.",
     "char_len": 86
+  },
+  {
+    "chunk_id": "sbimf_bluechip_factsheet_chunk_000",
+    "doc_id": "sbimf_bluechip_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 0,
+    "text": "SBI Blue Chip Fund - Complete Fund Details\nFund Name: SBI Blue Chip Fund\nFund House: SBI Funds Management Ltd. (SBI AMC)\nCategory: Large Cap Fund\nType: Open-Ended Equity Scheme\nSEBI Category: Large Cap Fund (invests minimum 80% in large-cap stocks)\nFund Objective:",
+    "char_len": 264
+  },
+  {
+    "chunk_id": "sbimf_bluechip_factsheet_chunk_001",
+    "doc_id": "sbimf_bluechip_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 1,
+    "text": "Fund Objective:\nTo provide investors with opportunities for long-term growth in capital through an active management of investments in a diversified basket of equity stocks of companies whose market capitalization is at least equal to or more than the least market capitalised stock of S&P BSE 100 Index.\nKey Details:\n- Benchmark: S&P BSE 100 TRI (Total Return Index)\n- Fund Manager: Sohini Andani (lead), Mohit Jain\n- Launch Date: February 14, 2006",
+    "char_len": 449
+  },
+  {
+    "chunk_id": "sbimf_bluechip_factsheet_chunk_002",
+    "doc_id": "sbimf_bluechip_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 2,
+    "text": "- Launch Date: February 14, 2006\n- AUM (Assets Under Management): Approximately ₹45,000-50,000 crore (one of India's largest equity funds)\n- Minimum Lump Sum Investment: ₹1,000\n- Minimum SIP Amount: ₹500 per month\n- Minimum Additional Purchase: ₹1,000\nExpense Ratio:\n- Regular Plan (Growth): ~1.55-1.65% per annum\n- Direct Plan (Growth): ~0.80-0.90% per annum\n(TER disclosed monthly on AMC website; subject to change based on AUM)\nNAV (Net Asset Value):\n- NAV changes daily based on market movements",
+    "char_len": 499
+  },
+  {
+    "chunk_id": "sbimf_bluechip_factsheet_chunk_003",
+    "doc_id": "sbimf_bluechip_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 3,
+    "text": "- NAV changes daily based on market movements\n- Check latest NAV: sbimf.com/mutual-fund-nav or amfiindia.com\n- Historical NAVs available on AMFI website\nRisk Profile:\n- Risk-o-Meter: HIGH\n- Suitable for investors with 5+ year investment horizon\n- Subject to market risk, concentration risk, liquidity risk\nLoad Structure:\n- Entry Load: NIL (entry loads abolished by SEBI since August 2009)\n- Exit Load: 1% if redeemed within 12 months from date of allotment; NIL after 12 months",
+    "char_len": 478
+  },
+  {
+    "chunk_id": "sbimf_bluechip_factsheet_chunk_004",
+    "doc_id": "sbimf_bluechip_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 4,
+    "text": "- Switch: 1% exit load applicable within 12 months\nLock-in Period: NONE (open-ended; can redeem anytime subject to exit load)\nPortfolio Highlights (approximate):\n- Minimum 80% in large-cap stocks (top 100 by market cap)\n- Up to 20% in other equity and equity-related instruments\n- Diversified across sectors: Banking, IT, Consumer Goods, Pharma, Energy\n- Typically holds 40-60 stocks\nTax Treatment (FY 2024-25):\n- LTCG (held >12 months): 12.5% above ₹1.25 lakh gains per year",
+    "char_len": 475
+  },
+  {
+    "chunk_id": "sbimf_bluechip_factsheet_chunk_005",
+    "doc_id": "sbimf_bluechip_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 5,
+    "text": "- STCG (held ≤12 months): 20%\nPlans Available:\n- Regular Plan - Growth, IDCW (Dividend)\n- Direct Plan - Growth, IDCW (Dividend)\nHow to Invest:\n- Online: sbimf.com or INDMoney, Zerodha Coin, Groww, etc.\n- Offline: SBI MF branches or registered distributors\n- KYC mandatory before investment\nSource: SBI Funds Management Ltd. | sbimf.com | amfiindia.com",
+    "char_len": 351
+  },
+  {
+    "chunk_id": "sbimf_debt_magnum_factsheet_chunk_000",
+    "doc_id": "sbimf_debt_magnum_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 0,
+    "text": "SBI Magnum Medium Duration Fund - Complete Fund Details\nFund Name: SBI Magnum Medium Duration Fund\nFund House: SBI Funds Management Ltd. (SBI AMC)\nCategory: Medium Duration Fund\nType: Open-Ended Medium Term Debt Scheme\nSEBI Category: Medium Duration Fund - Macaulay duration of 3-4 years\nFund Objective:\nTo generate regular income and capital appreciation by investing in debt and money market instruments such that the Macaulay duration of the portfolio is between 3 and 4 years.\nKey Details:",
+    "char_len": 493
+  },
+  {
+    "chunk_id": "sbimf_debt_magnum_factsheet_chunk_001",
+    "doc_id": "sbimf_debt_magnum_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 1,
+    "text": "Key Details:\n- Benchmark: CRISIL Medium Duration Debt A-III Index\n- Fund Manager: Rajeev Radhakrishnan / Ardhendu Bhattacharya\n- AUM: Approximately ₹3,500-5,000 crore\n- Minimum Lump Sum Investment: ₹5,000\n- Minimum SIP Amount: ₹1,000 per month\nExpense Ratio:\n- Regular Plan (Growth): ~1.30-1.50% per annum\n- Direct Plan (Growth): ~0.50-0.70% per annum\nPortfolio:\n- Invests in a mix of government securities, corporate bonds, PSU bonds, money market instruments",
+    "char_len": 460
+  },
+  {
+    "chunk_id": "sbimf_debt_magnum_factsheet_chunk_002",
+    "doc_id": "sbimf_debt_magnum_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 2,
+    "text": "- Maintains portfolio Macaulay duration of 3-4 years\n- Focus on AA+ and AAA rated instruments for credit quality\nRisk Profile:\n- Risk-o-Meter: MODERATE\n- Interest rate risk: NAV falls when interest rates rise; rises when rates fall\n- Credit risk: Mitigated by focus on high-quality instruments\n- Suitable for investors with 3-4 year investment horizon\nLoad Structure:\n- Entry Load: NIL\n- Exit Load: 1.5% if redeemed within 6 months; 1% if redeemed between 6-12 months; NIL after 12 months",
+    "char_len": 488
+  },
+  {
+    "chunk_id": "sbimf_debt_magnum_factsheet_chunk_003",
+    "doc_id": "sbimf_debt_magnum_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 3,
+    "text": "Lock-in Period: NONE\nTax Treatment (FY 2024-25):\n- Both STCG and LTCG taxed at investor's income tax slab rate\n- No indexation benefit (post April 2023 budget change)\nIdeal For:\n- Conservative investors seeking better-than-FD returns\n- Investors comfortable with some duration risk\n- 3-5 year investment horizon\n- Suitable as fixed-income component in a diversified portfolio\nSource: SBI Funds Management Ltd. | sbimf.com | amfiindia.com",
+    "char_len": 437
+  },
+  {
+    "chunk_id": "sbimf_elss_factsheet_chunk_000",
+    "doc_id": "sbimf_elss_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/solution-oriented-schemes",
+    "chunk_idx": 0,
+    "text": "SBI Long Term Equity Fund (ELSS / Tax Saver) - Complete Fund Details\nFund Name: SBI Long Term Equity Fund (formerly SBI Magnum Tax Gain Scheme)\nFund House: SBI Funds Management Ltd. (SBI AMC)\nCategory: ELSS (Equity Linked Savings Scheme) - Tax Saving Fund\nType: Open-Ended Equity Linked Savings Scheme with a 3-year lock-in\nFund Objective:",
+    "char_len": 339
+  },
+  {
+    "chunk_id": "sbimf_elss_factsheet_chunk_001",
+    "doc_id": "sbimf_elss_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/solution-oriented-schemes",
+    "chunk_idx": 1,
+    "text": "Fund Objective:\nTo deliver the benefit of investment in a portfolio of equity stocks while offering a deduction on investment amount from income under section 80C of the Income Tax Act. The fund targets long-term capital appreciation by investing predominantly in equities.\nKey Details:\n- Benchmark: S&P BSE 500 TRI\n- Fund Manager: Dinesh Balachandran\n- Launch Date: March 31, 1993 (one of India's oldest ELSS funds)\n- AUM: Approximately ₹25,000-28,000 crore\n- Minimum Lump Sum Investment: ₹500",
+    "char_len": 494
+  },
+  {
+    "chunk_id": "sbimf_elss_factsheet_chunk_002",
+    "doc_id": "sbimf_elss_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/solution-oriented-schemes",
+    "chunk_idx": 2,
+    "text": "- Minimum Lump Sum Investment: ₹500\n- Minimum SIP Amount: ₹500 per month\nExpense Ratio:\n- Regular Plan (Growth): ~1.60-1.75% per annum\n- Direct Plan (Growth): ~0.80-1.00% per annum\nLock-in Period:\n- MANDATORY 3-YEAR LOCK-IN per unit from date of investment\n- For SIP: EACH monthly instalment has its own 3-year lock-in\n Example: January 2024 SIP instalment locked until January 2027\n- Cannot redeem before 3 years even in emergencies\nTax Benefits:",
+    "char_len": 447
+  },
+  {
+    "chunk_id": "sbimf_elss_factsheet_chunk_003",
+    "doc_id": "sbimf_elss_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/solution-oriented-schemes",
+    "chunk_idx": 3,
+    "text": "Tax Benefits:\n- Investment Deduction: Up to ₹1,50,000 per year deductible under Section 80C of Income Tax Act\n- Tax saving (30% slab): Up to ₹46,800 saved per year\n- LTCG on redemption: 12.5% above ₹1.25 lakh gains per year (after lock-in)\nRisk Profile:\n- Risk-o-Meter: VERY HIGH\n- Diversified equity portfolio across large, mid, and small-cap stocks\nLoad Structure:\n- Entry Load: NIL\n- Exit Load: NIL (lock-in acts as restriction; no additional exit load after lock-in)",
+    "char_len": 470
+  },
+  {
+    "chunk_id": "sbimf_elss_factsheet_chunk_004",
+    "doc_id": "sbimf_elss_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/solution-oriented-schemes",
+    "chunk_idx": 4,
+    "text": "Portfolio: Diversified multi-cap portfolio across sectors; no sector-specific restrictions.\nWho Should Invest:\n- Taxpayers looking to save tax under Section 80C\n- Investors with minimum 3-year (ideally 5+ year) investment horizon\n- Investors comfortable with equity market risk\nSource: SBI Funds Management Ltd. | sbimf.com | amfiindia.com | sebi.gov.in",
+    "char_len": 353
+  },
+  {
+    "chunk_id": "sbimf_general_faq_chunk_000",
+    "doc_id": "sbimf_general_faq",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/sip",
+    "chunk_idx": 0,
+    "text": "SBI Mutual Fund - General FAQs and Investor Information\nWhat is SBI Mutual Fund?\nSBI Mutual Fund is one of India's largest and most trusted asset management companies (AMCs). It is a joint venture between the State Bank of India (SBI) and Amundi (France's largest asset manager). Established in 1987, SBI MF manages over ₹8-9 lakh crore in Assets Under Management (AUM) and offers 50+ mutual fund schemes across equity, debt, hybrid, and solution-oriented categories.\nFund House Details:",
+    "char_len": 487
+  },
+  {
+    "chunk_id": "sbimf_general_faq_chunk_001",
+    "doc_id": "sbimf_general_faq",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/sip",
+    "chunk_idx": 1,
+    "text": "Fund House Details:\n- Full Name: SBI Funds Management Limited\n- Type: Joint Venture (SBI: Government of India + Amundi: France)\n- Headquarters: Mumbai, India\n- Regulated by: SEBI (Securities and Exchange Board of India)\n- Member of: AMFI (Association of Mutual Funds in India)\n- Website: sbimf.com\n- Customer Care: 1800-209-3333 (Toll-Free)\nFrequently Asked Questions:\nQ: What is the minimum investment amount in SBI MF?",
+    "char_len": 420
+  },
+  {
+    "chunk_id": "sbimf_general_faq_chunk_002",
+    "doc_id": "sbimf_general_faq",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/sip",
+    "chunk_idx": 2,
+    "text": "A: Minimum lump sum is ₹1,000 for most equity schemes and ₹5,000 for most debt schemes. Minimum SIP is ₹500/month for most schemes.\nQ: How do I check my SBI MF account balance?\nA: Login to sbimf.com, or the SBI MF App, or check via CAMS portal (camsonline.com), or call 1800-209-3333.\nQ: How do I redeem my SBI MF investment?\nA: Log in to sbimf.com → Redeem → Select scheme → Enter amount/units → Confirm. Proceeds credited within:\n- Liquid/Overnight Funds: T+1 business day",
+    "char_len": 474
+  },
+  {
+    "chunk_id": "sbimf_general_faq_chunk_003",
+    "doc_id": "sbimf_general_faq",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/sip",
+    "chunk_idx": 3,
+    "text": "- Liquid/Overnight Funds: T+1 business day\n- Equity/Hybrid Funds: T+3 business days\nQ: What is the exit load in SBI MF schemes?\nA: Exit load varies by scheme:\n- Equity funds: Typically 1% if redeemed within 12 months\n- Liquid Fund: Graded 0.0045-0.0070% within 7 days; NIL after 7 days\n- Debt funds: Varies (check scheme-specific SID)\nQ: Can I do a SIP online in SBI MF?\nA: Yes. Register at sbimf.com → Choose scheme → Set SIP date and amount → Set up NACH/ECS auto-debit mandate from bank.",
+    "char_len": 490
+  },
+  {
+    "chunk_id": "sbimf_general_faq_chunk_004",
+    "doc_id": "sbimf_general_faq",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/sip",
+    "chunk_idx": 4,
+    "text": "Q: What documents are needed to invest in SBI MF?\nA: PAN Card + Aadhaar-based KYC (done once, valid for all mutual funds) + Bank account details.\nQ: Is SBI MF safe?\nA: SBI MF is regulated by SEBI and is one of India's most trusted AMCs. However, all mutual fund investments are subject to market risks and returns are not guaranteed.\nQ: What is the difference between Regular Plan and Direct Plan?",
+    "char_len": 397
+  },
+  {
+    "chunk_id": "sbimf_general_faq_chunk_005",
+    "doc_id": "sbimf_general_faq",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/sip",
+    "chunk_idx": 5,
+    "text": "A: Direct Plan has no distributor commission - lower expense ratio (0.5-1% less than Regular). Invest directly via sbimf.com for Direct Plan. Regular Plan is through distributors/advisors.\nQ: Is there a tax benefit for investing in SBI MF?\nA: Yes - SBI Long Term Equity Fund (ELSS) qualifies for ₹1.5 lakh deduction under Section 80C. Other funds are subject to capital gains tax.\nQ: How do I contact SBI MF customer service?",
+    "char_len": 425
+  },
+  {
+    "chunk_id": "sbimf_general_faq_chunk_006",
+    "doc_id": "sbimf_general_faq",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/sip",
+    "chunk_idx": 6,
+    "text": "Q: How do I contact SBI MF customer service?\nA: Toll-Free: 1800-209-3333 | Email: investor@sbimf.com | Website: sbimf.com\nSource: SBI Funds Management Ltd. | sbimf.com",
+    "char_len": 167
+  },
+  {
+    "chunk_id": "sbimf_hybrid_factsheet_chunk_000",
+    "doc_id": "sbimf_hybrid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/hybrid-mutual-funds",
+    "chunk_idx": 0,
+    "text": "SBI Equity Hybrid Fund - Complete Fund Details\nFund Name: SBI Equity Hybrid Fund\nFund House: SBI Funds Management Ltd. (SBI AMC)\nCategory: Aggressive Hybrid Fund\nType: Open-Ended Hybrid Scheme\nSEBI Category: Aggressive Hybrid - 65-80% in equity; 20-35% in debt instruments\nFund Objective:\nTo provide long-term capital appreciation and current income by investing in a portfolio of equity and debt instruments. The fund balances growth potential from equities with stability from debt.\nKey Details:",
+    "char_len": 497
+  },
+  {
+    "chunk_id": "sbimf_hybrid_factsheet_chunk_001",
+    "doc_id": "sbimf_hybrid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/hybrid-mutual-funds",
+    "chunk_idx": 1,
+    "text": "Key Details:\n- Benchmark: CRISIL Hybrid 35+65 Aggressive Index\n- Fund Manager: Equity - R. Srinivasan / Debt - Rajeev Radhakrishnan\n- Launch Date: January 1, 2013 (merger)\n- AUM: Approximately ₹60,000-65,000 crore (one of India's largest hybrid funds)\n- Minimum Lump Sum Investment: ₹1,000\n- Minimum SIP Amount: ₹500 per month\nExpense Ratio:\n- Regular Plan (Growth): ~1.50-1.65% per annum\n- Direct Plan (Growth): ~0.80-0.90% per annum\nAsset Allocation:",
+    "char_len": 452
+  },
+  {
+    "chunk_id": "sbimf_hybrid_factsheet_chunk_002",
+    "doc_id": "sbimf_hybrid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/hybrid-mutual-funds",
+    "chunk_idx": 2,
+    "text": "Asset Allocation:\n- Equity: 65-80% of portfolio (provides growth)\n- Debt: 20-35% of portfolio (provides stability and income)\n- Automatic rebalancing maintains this allocation\nRisk Profile:\n- Risk-o-Meter: VERY HIGH\n- Less volatile than pure equity funds; more stable than equity due to debt component\n- Suitable for moderately aggressive investors with 3-5 year horizon\nLoad Structure:\n- Entry Load: NIL\n- Exit Load: 1% if redeemed within 12 months from date of allotment; NIL after 12 months",
+    "char_len": 493
+  },
+  {
+    "chunk_id": "sbimf_hybrid_factsheet_chunk_003",
+    "doc_id": "sbimf_hybrid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/hybrid-mutual-funds",
+    "chunk_idx": 3,
+    "text": "Lock-in Period: NONE\nTax Treatment:\n- Treated as Equity Fund for tax purposes (since equity ≥ 65%)\n- LTCG: 12.5% above ₹1.25 lakh per year (held > 12 months)\n- STCG: 20% (held ≤ 12 months)\nIdeal For:\n- First-time equity investors transitioning from FDs/debt\n- Investors wanting moderate risk with capital growth\n- Goal-based investing (3-7 year goals like home down payment, child education)\nSource: SBI Funds Management Ltd. | sbimf.com | amfiindia.com",
+    "char_len": 453
+  },
+  {
+    "chunk_id": "sbimf_liquid_factsheet_chunk_000",
+    "doc_id": "sbimf_liquid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 0,
+    "text": "SBI Liquid Fund - Complete Fund Details\nFund Name: SBI Liquid Fund\nFund House: SBI Funds Management Ltd. (SBI AMC)\nCategory: Liquid Fund\nType: Open-Ended Liquid Scheme (Debt Category)\nSEBI Category: Liquid Fund - investments in money market instruments with maturity up to 91 days\nFund Objective:",
+    "char_len": 296
+  },
+  {
+    "chunk_id": "sbimf_liquid_factsheet_chunk_001",
+    "doc_id": "sbimf_liquid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 1,
+    "text": "Fund Objective:\nTo provide regular returns with highest liquidity through investments in money market instruments and debt instruments such as Treasury Bills (T-bills), Commercial Papers, Certificates of Deposit, and Repurchase Agreements (Repos).\nKey Details:\n- Benchmark: CRISIL Liquid Fund BI Index\n- Fund Manager: Rajeev Radhakrishnan\n- Launch Date: November 27, 2003\n- AUM: Approximately ₹65,000-75,000 crore (one of India's largest liquid funds)\n- Minimum Lump Sum Investment: ₹5,000",
+    "char_len": 489
+  },
+  {
+    "chunk_id": "sbimf_liquid_factsheet_chunk_002",
+    "doc_id": "sbimf_liquid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 2,
+    "text": "- Minimum Lump Sum Investment: ₹5,000\n- Minimum SIP: Not applicable (liquid funds are not suitable for SIP)\n- Minimum Redemption: ₹500 or 0.001 units\nExpense Ratio:\n- Regular Plan (Growth): ~0.25-0.30% per annum\n- Direct Plan (Growth): ~0.15-0.20% per annum\n(Expense ratios for liquid funds are very low by nature)\nNAV Applicability (Special SEBI Rules for Liquid Funds):\n- Cut-off time for same-day NAV: 1:30 PM\n- For purchases received before 1:30 PM with funds cleared: Previous day's closing NAV",
+    "char_len": 499
+  },
+  {
+    "chunk_id": "sbimf_liquid_factsheet_chunk_003",
+    "doc_id": "sbimf_liquid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 3,
+    "text": "- For purchases after 1:30 PM: Next business day's NAV (T+1)\n- Redemptions: T+1 business day credit (by 10 AM next day for most cases)\nRisk Profile:\n- Risk-o-Meter: LOW\n- Safest category of mutual funds\n- No credit risk on highest-rated instruments; near-zero market risk\n- Capital preservation is the primary objective\nLoad Structure:\n- Entry Load: NIL\n- Exit Load: Graded exit load for redemption within 7 days:\n Day 1: 0.0070% | Day 2: 0.0065% | Day 3: 0.0060%",
+    "char_len": 463
+  },
+  {
+    "chunk_id": "sbimf_liquid_factsheet_chunk_004",
+    "doc_id": "sbimf_liquid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 4,
+    "text": "Day 1: 0.0070% | Day 2: 0.0065% | Day 3: 0.0060%\n Day 4: 0.0055% | Day 5: 0.0050% | Day 6: 0.0045% | Day 7 onwards: NIL\nLock-in Period: NONE - one of the most liquid investments available\nTypical Returns (indicative, not guaranteed):\n- Closely tracks repo rate / short-term interest rates\n- Generally provides 6-7% annualised returns (varies with RBI rate environment)\n- Better than savings account rates; slightly lower than FDs\nTax Treatment (FY 2024-25):",
+    "char_len": 457
+  },
+  {
+    "chunk_id": "sbimf_liquid_factsheet_chunk_005",
+    "doc_id": "sbimf_liquid_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/debt-mutual-funds",
+    "chunk_idx": 5,
+    "text": "Tax Treatment (FY 2024-25):\n- Taxed as per investor's income tax slab (for both short and long-term)\n- No indexation benefit\nIdeal For:\n- Parking surplus cash temporarily (3 days to 3 months)\n- Emergency fund parking\n- Investors looking for FD-like returns with better liquidity\nSource: SBI Funds Management Ltd. | sbimf.com | amfiindia.com",
+    "char_len": 340
+  },
+  {
+    "chunk_id": "sbimf_nifty_index_factsheet_chunk_000",
+    "doc_id": "sbimf_nifty_index_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/passive-solutions",
+    "chunk_idx": 0,
+    "text": "SBI Nifty Index Fund - Complete Fund Details\nFund Name: SBI Nifty Index Fund\nFund House: SBI Funds Management Ltd. (SBI AMC)\nCategory: Index Fund\nType: Open-Ended Index Scheme (Passive)\nSEBI Category: Index Funds / ETFs - tracks Nifty 50 Index\nFund Objective:",
+    "char_len": 259
+  },
+  {
+    "chunk_id": "sbimf_nifty_index_factsheet_chunk_001",
+    "doc_id": "sbimf_nifty_index_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/passive-solutions",
+    "chunk_idx": 1,
+    "text": "Fund Objective:\nTo provide returns that closely correspond to the returns generated by the Nifty 50 Index by investing in securities that are constituents of the Nifty 50 Index in the same proportion as they appear in the index. The fund is passively managed with minimal human intervention.\nKey Details:\n- Benchmark: Nifty 50 TRI (Total Return Index)\n- Fund Manager: Raviprakash Sharma (index/passive fund team)\n- Launch Date: January 17, 2002\n- AUM: Approximately ₹6,000-9,000 crore",
+    "char_len": 484
+  },
+  {
+    "chunk_id": "sbimf_nifty_index_factsheet_chunk_002",
+    "doc_id": "sbimf_nifty_index_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/passive-solutions",
+    "chunk_idx": 2,
+    "text": "- AUM: Approximately ₹6,000-9,000 crore\n- Minimum Lump Sum Investment: ₹1,000\n- Minimum SIP Amount: ₹500 per month\nExpense Ratio:\n- Regular Plan (Growth): ~0.50% per annum\n- Direct Plan (Growth): ~0.10-0.20% per annum\n(Index funds have significantly lower TER than actively managed funds - SEBI cap: 1.00%)\nTracking Error:\n- Very low; ideally below 0.05% daily\n- AMC monitors tracking error and rebalances automatically during Nifty 50 reconstitution\nRisk Profile:\n- Risk-o-Meter: VERY HIGH",
+    "char_len": 490
+  },
+  {
+    "chunk_id": "sbimf_nifty_index_factsheet_chunk_003",
+    "doc_id": "sbimf_nifty_index_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/passive-solutions",
+    "chunk_idx": 3,
+    "text": "Risk Profile:\n- Risk-o-Meter: VERY HIGH\n- Market risk of the Nifty 50 Index (top 50 companies by market cap)\n- No fund manager risk; returns mirror the index (minus tracking error)\nLoad Structure:\n- Entry Load: NIL\n- Exit Load: 0.20% if redeemed within 15 days; NIL after 15 days\nLock-in Period: NONE\nNifty 50 Composition (approximate):\n- Top sectors: Financial Services (~35%), IT (~15%), Oil & Gas (~12%), Consumer Goods (~8%), Pharma (~5%)",
+    "char_len": 442
+  },
+  {
+    "chunk_id": "sbimf_nifty_index_factsheet_chunk_004",
+    "doc_id": "sbimf_nifty_index_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/passive-solutions",
+    "chunk_idx": 4,
+    "text": "- Top holdings: Reliance, HDFC Bank, Infosys, ICICI Bank, TCS, Bharti Airtel, L&T, etc.\nActive vs Passive - SBI Nifty Index Fund:\n- NOT actively managed; fund manager does not pick stocks\n- Always reflects Nifty 50 composition\n- Lower cost than active large-cap funds; similar performance to Nifty 50\nTax Treatment:\n- LTCG: 12.5% above ₹1.25 lakh (held > 12 months)\n- STCG: 20% (held ≤ 12 months)\nIdeal For:\n- Cost-conscious investors preferring market returns",
+    "char_len": 460
+  },
+  {
+    "chunk_id": "sbimf_nifty_index_factsheet_chunk_005",
+    "doc_id": "sbimf_nifty_index_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/passive-solutions",
+    "chunk_idx": 5,
+    "text": "- Investors who believe active funds don't consistently beat the index\n- Long-term wealth creation (10+ years)\nSource: SBI Funds Management Ltd. | sbimf.com | NSE India | amfiindia.com",
+    "char_len": 184
+  },
+  {
+    "chunk_id": "sbimf_smallcap_factsheet_chunk_000",
+    "doc_id": "sbimf_smallcap_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 0,
+    "text": "SBI Small Cap Fund - Complete Fund Details\nFund Name: SBI Small Cap Fund\nFund House: SBI Funds Management Ltd. (SBI AMC)\nCategory: Small Cap Fund\nType: Open-Ended Equity Scheme\nSEBI Category: Small Cap Fund (minimum 65% in small-cap stocks)\nFund Objective:\nTo provide investors with opportunities for long-term growth in capital along with the liquidity of an open-ended scheme through an active management of investments in diversified basket of equity stocks of small cap companies.\nKey Details:",
+    "char_len": 497
+  },
+  {
+    "chunk_id": "sbimf_smallcap_factsheet_chunk_001",
+    "doc_id": "sbimf_smallcap_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 1,
+    "text": "Key Details:\n- Benchmark: S&P BSE 250 SmallCap TRI\n- Fund Manager: R. Srinivasan (CIO - Equity)\n- Launch Date: September 9, 2009\n- AUM: Approximately ₹25,000-30,000 crore (frequently closed for lump sum due to high inflows)\n- Minimum Lump Sum Investment: ₹5,000 (when open for lump sum)\n- Minimum SIP Amount: ₹500 per month\n- Note: Lump sum investments may be temporarily restricted when AUM is very high (to protect existing investors)\nExpense Ratio:\n- Regular Plan (Growth): ~1.80-1.90% per annum",
+    "char_len": 498
+  },
+  {
+    "chunk_id": "sbimf_smallcap_factsheet_chunk_002",
+    "doc_id": "sbimf_smallcap_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 2,
+    "text": "- Regular Plan (Growth): ~1.80-1.90% per annum\n- Direct Plan (Growth): ~0.80-0.90% per annum\nRisk Profile:\n- Risk-o-Meter: VERY HIGH\n- Suitable for investors with 7+ year investment horizon\n- Higher volatility than large-cap funds; higher return potential over long term\n- Subject to liquidity risk (small-cap stocks can be illiquid)\nLoad Structure:\n- Entry Load: NIL\n- Exit Load: 1% if redeemed within 12 months; NIL after 12 months\nLock-in Period: NONE (open-ended)\nPortfolio Highlights:",
+    "char_len": 489
+  },
+  {
+    "chunk_id": "sbimf_smallcap_factsheet_chunk_003",
+    "doc_id": "sbimf_smallcap_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 3,
+    "text": "Portfolio Highlights:\n- Minimum 65% in small-cap stocks (companies ranked below 250 by market cap)\n- Up to 35% in other equity categories or debt instruments\n- Higher concentration risk than large-cap funds\nTax Treatment (FY 2024-25):\n- LTCG (held >12 months): 12.5% above ₹1.25 lakh per year\n- STCG (held ≤12 months): 20%\nImportant Note: SBI Small Cap Fund has periodically suspended lump sum investments due to high AUM. Investors can check sbimf.com for current availability of lump sum mode.",
+    "char_len": 495
+  },
+  {
+    "chunk_id": "sbimf_smallcap_factsheet_chunk_004",
+    "doc_id": "sbimf_smallcap_factsheet",
+    "source": "SBI AMC",
+    "url": "https://www.sbimf.com/mutual-fund/equity-mutual-funds",
+    "chunk_idx": 4,
+    "text": "Source: SBI Funds Management Ltd. | sbimf.com | amfiindia.com",
+    "char_len": 61
+  },
+  {
+    "chunk_id": "sebi_expense_ratio_norms_chunk_000",
+    "doc_id": "sebi_expense_ratio_norms",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 0,
+    "text": "SEBI Norms on Total Expense Ratio (TER) for Mutual Funds\nSEBI issued a landmark circular on September 18, 2018, comprehensively revising the Total Expense Ratio (TER) structure for all mutual fund schemes in India.\nWhat is Total Expense Ratio (TER)?\nTER is the annual fee charged by a mutual fund to cover its operating costs, expressed as a percentage of the fund's average daily Net Assets Under Management (AUM). It is deducted from the NAV daily.",
+    "char_len": 450
+  },
+  {
+    "chunk_id": "sebi_expense_ratio_norms_chunk_001",
+    "doc_id": "sebi_expense_ratio_norms",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 1,
+    "text": "SEBI's TER Slab Structure (Equity / Equity-oriented Hybrid Schemes):\n| AUM Slab | Maximum TER |\n|---------------------------|-------------|\n| On the first ₹500 crore | 2.25% |\n| On the next ₹250 crore | 2.00% |\n| On the next ₹1,250 crore | 1.75% |\n| On the next ₹3,000 crore | 1.60% |\n| On the next ₹5,000 crore | 1.50% |\n| On the next ₹40,000 crore | 0.05% reduction per ₹5,000 crore increase |\n| Above ₹50,000 crore | 1.05% |",
+    "char_len": 427
+  },
+  {
+    "chunk_id": "sebi_expense_ratio_norms_chunk_002",
+    "doc_id": "sebi_expense_ratio_norms",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 2,
+    "text": "| Above ₹50,000 crore | 1.05% |\nFor Debt / Debt-oriented Hybrid Schemes: 25 basis points lower than equity limits at each slab.\nFor Index Funds and ETFs: Maximum TER = 1.00%.\nFor Fund of Funds (equity-oriented): Maximum TER = 2.25%.\nFor Fund of Funds (debt-oriented): Maximum TER = 2.00%.\nKey SEBI Rules on TER:\n1. Direct Plans: Must have a lower TER than Regular Plans (difference = distributor commission, typically 0.50% to 1.00%).",
+    "char_len": 434
+  },
+  {
+    "chunk_id": "sebi_expense_ratio_norms_chunk_003",
+    "doc_id": "sebi_expense_ratio_norms",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 3,
+    "text": "2. No Brokerage in TER: Brokerage paid to brokers for equity trades must NOT be charged within TER for index funds and ETFs.\n3. Additional 30 bps allowed: If new inflows from B-30 cities (beyond top 30 cities) represent at least 30% of gross new inflows, an additional 30 bps may be charged.\n4. GST on Management Fees: GST on the investment management fee is charged over and above the TER limit.",
+    "char_len": 396
+  },
+  {
+    "chunk_id": "sebi_expense_ratio_norms_chunk_004",
+    "doc_id": "sebi_expense_ratio_norms",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 4,
+    "text": "5. Performance Fee (only for certain schemes): Allowed for certain closed-end schemes subject to SEBI conditions.\nDisclosure Requirements:\n- AMCs must disclose the daily TER of each scheme on their website.\n- Monthly TER disclosure on AMFI website.\n- Any change in TER must be announced in advance via website and effective only after the announcement period.\nWhy TER Matters for Investors:",
+    "char_len": 390
+  },
+  {
+    "chunk_id": "sebi_expense_ratio_norms_chunk_005",
+    "doc_id": "sebi_expense_ratio_norms",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 5,
+    "text": "Why TER Matters for Investors:\nA 1% difference in TER compounded over 20 years on a ₹10 lakh investment at 12% gross return results in significantly different outcomes:\n- At 12% net (low TER): ~₹96.5 lakh\n- At 11% net (high TER): ~₹80.6 lakh\n- Difference: ~₹15.9 lakh (~16.5% lower corpus)\nSource: SEBI Circular SEBI/HO/IMD/DF2/CIR/P/2018/137 | sebi.gov.in",
+    "char_len": 356
+  },
+  {
+    "chunk_id": "sebi_investor_rights_chunk_000",
+    "doc_id": "sebi_investor_rights",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 0,
+    "text": "SEBI Investor Rights and Protections in Mutual Funds\nSEBI has established a comprehensive framework to protect the rights of mutual fund investors in India.\nCore Investor Rights (SEBI Mutual Fund Investor Charter):\n1. Right to Information:\n- Full disclosure of scheme details via Scheme Information Document (SID) and Key Information Memorandum (KIM).\n- Right to receive account statement after every transaction.\n- Right to receive annual report / abridged annual report of the scheme.",
+    "char_len": 486
+  },
+  {
+    "chunk_id": "sebi_investor_rights_chunk_001",
+    "doc_id": "sebi_investor_rights",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 1,
+    "text": "- NAV published daily on AMC and AMFI websites.\n2. Right to Transparency:\n- Monthly portfolio disclosure on AMC website.\n- Disclosure of Total Expense Ratio (TER) daily on AMC website.\n- Fund manager details and any changes disclosed promptly.\n- Stewardship (proxy voting) records disclosed quarterly.\n3. Right to Redemption (Exit):\n- Investors in open-ended schemes can redeem units on any business day at NAV-based prices.",
+    "char_len": 424
+  },
+  {
+    "chunk_id": "sebi_investor_rights_chunk_002",
+    "doc_id": "sebi_investor_rights",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 2,
+    "text": "- Redemption proceeds credited within 3 business days (equity) or 1 business day (liquid/overnight funds).\n- No involuntary extension of scheme tenure without SEBI approval and unitholder consent.\n4. Right to Switch:\n- Investors can switch between schemes of the same AMC; switch = redemption + fresh purchase.\n- Inter-scheme switches are allowed subject to exit loads and tax implications.\n5. Right to Grievance Redressal:\n- AMC must resolve complaints within 10 working days.",
+    "char_len": 477
+  },
+  {
+    "chunk_id": "sebi_investor_rights_chunk_003",
+    "doc_id": "sebi_investor_rights",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 3,
+    "text": "- SEBI SCORES (sebi.gov.in/sebiweb/home/HomeDeatils.html?url=scores) portal for online complaints.\n- SEBI Investor Helpline: 1800 22 7575 (toll-free)\n- AMFI Investor Helpline: 1800-267-5490\n6. Protection against Mis-selling:\n- SEBI prohibits distributors from recommending unsuitable products.\n- \"Appropriateness / Suitability\" guidelines mandate distributors to understand investor risk profile.\n- Risk-o-Meter mandatory to help investors assess scheme risk.\n- Entry loads banned since August 2009.",
+    "char_len": 499
+  },
+  {
+    "chunk_id": "sebi_investor_rights_chunk_004",
+    "doc_id": "sebi_investor_rights",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 4,
+    "text": "- Entry loads banned since August 2009.\n7. Protection of Fund Assets:\n- Fund assets are held by a custodian (separate from AMC) - investor assets are protected even if AMC fails.\n- Trustees (independent board) oversee AMC to protect unitholders' interests.\nSEBI SCORES Portal:\n- URL: scores.gov.in\n- Investors can register and file complaints against mutual funds online.\n- AMC must redress the complaint within 30 days; SEBI monitors compliance.\n- Unresolved complaints escalate to SEBI for action.",
+    "char_len": 499
+  },
+  {
+    "chunk_id": "sebi_investor_rights_chunk_005",
+    "doc_id": "sebi_investor_rights",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 5,
+    "text": "Investor Education Initiatives:\n- SEBI Investor Education: sebi.gov.in/investor-education\n- AMFI's \"Mutual Funds Sahi Hai\" campaign: mutualfundssahihai.com\n- National Institute of Securities Markets (NISM): nism.ac.in\nSource: SEBI - Securities and Exchange Board of India | sebi.gov.in",
+    "char_len": 285
+  },
+  {
+    "chunk_id": "sebi_kyc_guidelines_chunk_000",
+    "doc_id": "sebi_kyc_guidelines",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 0,
+    "text": "SEBI KYC (Know Your Customer) Guidelines for Mutual Fund Investors\nKYC (Know Your Customer) is a mandatory regulatory requirement for all investors in Indian capital markets, including mutual funds. It is governed by SEBI and implemented through SEBI-registered KYC Registration Agencies (KRAs).\nLegal Basis:\n- Prevention of Money Laundering Act (PMLA), 2002\n- SEBI (KYC Registration Agency) Regulations, 2011\n- SEBI Circular on Uniform KYC for Securities Market",
+    "char_len": 462
+  },
+  {
+    "chunk_id": "sebi_kyc_guidelines_chunk_001",
+    "doc_id": "sebi_kyc_guidelines",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 1,
+    "text": "KYC Registration Agencies (KRAs) registered with SEBI:\n1. CDSL Ventures Limited (CVL-KRA)\n2. NDML KRA (National Securities Depository Limited)\n3. CAMS KRA (Computer Age Management Services)\n4. Karvy KRA\n5. NSE KRA (DotEx International)\nKYC Documentation Requirements:\nIndividual Investors:\n- PAN Card (mandatory for all investments)\n- Proof of Identity (POI): Aadhaar / Passport / Driving Licence / Voter ID",
+    "char_len": 407
+  },
+  {
+    "chunk_id": "sebi_kyc_guidelines_chunk_002",
+    "doc_id": "sebi_kyc_guidelines",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 2,
+    "text": "- Proof of Address (POA): Aadhaar / Passport / Utility Bill (not older than 3 months) / Bank Statement\n- Recent passport-size photograph\n- Income proof (for certain high-value investments)\nKYC Process Options:\n1. Physical KYC: Visit an AMC branch or KRA with original documents and attested copies.\n2. eKYC (Aadhaar OTP-based): Limited to ₹50,000 investment per year per AMC; done online with Aadhaar OTP.",
+    "char_len": 405
+  },
+  {
+    "chunk_id": "sebi_kyc_guidelines_chunk_003",
+    "doc_id": "sebi_kyc_guidelines",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 3,
+    "text": "3. Video KYC (V-KYC): Full KYC via video call with AMC representative; no investment limit; PAN + Aadhaar required.\nKYC Validity:\n- KYC is a ONE-TIME process. Once done with any SEBI-registered intermediary, it is valid across all SEBI-regulated entities (all mutual funds, stocks, etc.).\n- KYC must be re-done if personal details change (address, name change after marriage, etc.).\nFATCA / CRS Declaration:",
+    "char_len": 407
+  },
+  {
+    "chunk_id": "sebi_kyc_guidelines_chunk_004",
+    "doc_id": "sebi_kyc_guidelines",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 4,
+    "text": "FATCA / CRS Declaration:\n- Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) declarations are required from all investors.\n- Required for AML compliance; involves declaring tax residency and citizenship details.\nPAN Requirements:\n- PAN is mandatory for all mutual fund investments.\n- Micro SIPs (up to ₹50,000/year) are exempt from mandatory PAN but Aadhaar is required.\nCentral KYC Records Registry (CKYCRR):",
+    "char_len": 438
+  },
+  {
+    "chunk_id": "sebi_kyc_guidelines_chunk_005",
+    "doc_id": "sebi_kyc_guidelines",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 5,
+    "text": "Central KYC Records Registry (CKYCRR):\n- As of 2017, individual investor KYC data is centralised in CKYCRR (operated by CERSAI).\n- A 14-digit CKYC identification number (KIN) is issued to each investor.\nSource: SEBI | sebi.gov.in | cersai.org.in",
+    "char_len": 245
+  },
+  {
+    "chunk_id": "sebi_mf_regulations_chunk_000",
+    "doc_id": "sebi_mf_regulations",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations.html",
+    "chunk_idx": 0,
+    "text": "SEBI (Mutual Funds) Regulations, 1996 - Overview\nThe SEBI (Mutual Funds) Regulations, 1996 is the primary regulatory framework governing mutual funds in India. It was issued by the Securities and Exchange Board of India (SEBI) under the powers conferred by the SEBI Act, 1992.\nKey Provisions:\n1. Registration of Mutual Funds:\n- All mutual funds must be registered with SEBI before they can offer schemes to the public.",
+    "char_len": 418
+  },
+  {
+    "chunk_id": "sebi_mf_regulations_chunk_001",
+    "doc_id": "sebi_mf_regulations",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations.html",
+    "chunk_idx": 1,
+    "text": "- The Sponsor (e.g., SBI for SBI Mutual Fund) must have a sound financial track record.\n- A Trust is created with a Board of Trustees to protect unitholders' interests.\n- An Asset Management Company (AMC) is appointed to manage the fund's investments.\n2. Structure of a Mutual Fund:\n- Sponsor → Trust (supervised by Trustees) → AMC → Schemes → Investors (unitholders)\n- The custodian holds the assets of the scheme.\n- The Registrar & Transfer Agent (RTA) handles investor services.",
+    "char_len": 481
+  },
+  {
+    "chunk_id": "sebi_mf_regulations_chunk_002",
+    "doc_id": "sebi_mf_regulations",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations.html",
+    "chunk_idx": 2,
+    "text": "3. Scheme Types Permitted:\nAs per SEBI's October 2017 circular (Categorization and Rationalization of Mutual Fund Schemes), SEBI has defined 36 categories of mutual fund schemes across 5 groups:\n a. Equity Schemes (11 categories): e.g., Multi Cap Fund, Large Cap Fund, Small Cap Fund, ELSS\n b. Debt Schemes (16 categories): e.g., Liquid Fund, Overnight Fund, Credit Risk Fund\n c. Hybrid Schemes (6 categories): e.g., Aggressive Hybrid, Conservative Hybrid",
+    "char_len": 455
+  },
+  {
+    "chunk_id": "sebi_mf_regulations_chunk_003",
+    "doc_id": "sebi_mf_regulations",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations.html",
+    "chunk_idx": 3,
+    "text": "d. Solution-Oriented Schemes (2 categories): Retirement Fund, Children's Fund\n e. Other Schemes (2 categories): Index Funds/ETFs, Fund of Funds\n4. Investment Restrictions:\n- Equity funds: At least 65% in equity and equity-related instruments.\n- Debt funds: Investment in rated instruments only; limits on single-issuer exposure.\n- Liquid funds: Maximum 91-day maturity instruments only.\n- No scheme can invest more than 10% of its assets in a single company's shares (except index funds).",
+    "char_len": 488
+  },
+  {
+    "chunk_id": "sebi_mf_regulations_chunk_004",
+    "doc_id": "sebi_mf_regulations",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations.html",
+    "chunk_idx": 4,
+    "text": "5. Expense Ratio (TER) Limits:\nAs per SEBI Circular dated September 18, 2018:\n- Equity schemes: 2.25% (up to ₹500 crore AUM), decreasing on a slab basis.\n- Debt schemes: 25 bps lower than equity limits.\n- Direct plans must have a lower TER than regular plans (no distributor commission).\n6. NAV Applicability:\n- Purchase/redemption NAV is based on when the transaction is received and fund transfer is cleared.\n- For equity/hybrid: Cut-off time = 3:00 PM.",
+    "char_len": 455
+  },
+  {
+    "chunk_id": "sebi_mf_regulations_chunk_005",
+    "doc_id": "sebi_mf_regulations",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations.html",
+    "chunk_idx": 5,
+    "text": "- For equity/hybrid: Cut-off time = 3:00 PM.\n- For liquid and overnight funds: Cut-off time = 1:30 PM; T+1 NAV applicable.\n7. Load Structure:\n- Entry Load: Prohibited since August 2009 (SEBI abolished entry loads).\n- Exit Load: Permitted; must be credited back to the scheme (not taken as AMC income).\n- Maximum exit load for equity schemes: 1% if redeemed within 12 months (varies by scheme).\n8. Risk-o-Meter:",
+    "char_len": 410
+  },
+  {
+    "chunk_id": "sebi_mf_regulations_chunk_006",
+    "doc_id": "sebi_mf_regulations",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations.html",
+    "chunk_idx": 6,
+    "text": "8. Risk-o-Meter:\nSEBI mandated a Risk-o-Meter for all mutual fund schemes (effective January 1, 2021) with 6 levels: Low, Low to Moderate, Moderate, Moderately High, High, Very High.\nSource: SEBI - Securities and Exchange Board of India | sebi.gov.in",
+    "char_len": 250
+  },
+  {
+    "chunk_id": "sebi_risk_and_disclosures_chunk_000",
+    "doc_id": "sebi_risk_and_disclosures",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 0,
+    "text": "SEBI Guidelines on Risk Disclosure and Investor Protection in Mutual Funds\nSEBI has established comprehensive disclosure requirements to protect mutual fund investors and ensure informed decision-making.\n1. Scheme Information Document (SID):\n- Every mutual fund scheme must have a SID filed with SEBI.\n- SID contains: investment objective, strategy, risk factors, benchmark, fund manager details, expense ratio, load structure, and past performance.\n- Investors must read the SID before investing.",
+    "char_len": 497
+  },
+  {
+    "chunk_id": "sebi_risk_and_disclosures_chunk_001",
+    "doc_id": "sebi_risk_and_disclosures",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 1,
+    "text": "- Investors must read the SID before investing.\n2. Key Information Memorandum (KIM):\n- A summary document of the SID.\n- Must be provided to investors at the time of investment.\n- Contains NAV, load structure, investment limits, and key scheme details.\n3. Risk-o-Meter (SEBI Circular, October 2020):\nSEBI mandated a standardized Risk-o-Meter for all mutual fund schemes - effective January 1, 2021.\nSix risk levels:\n 1. Low - Overnight Fund, Liquid Fund categories",
+    "char_len": 463
+  },
+  {
+    "chunk_id": "sebi_risk_and_disclosures_chunk_002",
+    "doc_id": "sebi_risk_and_disclosures",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 2,
+    "text": "1. Low - Overnight Fund, Liquid Fund categories\n 2. Low to Moderate - Ultra Short Duration, Money Market funds\n 3. Moderate - Short Duration, Corporate Bond funds\n 4. Moderately High - Medium Duration, Dynamic Bond\n 5. High - Large Cap, Flexi Cap, Balanced Advantage funds\n 6. Very High - Small Cap, Mid Cap, Sectoral/Thematic funds\n- Risk-o-Meter must be disclosed in all scheme communications, advertisements, and account statements.",
+    "char_len": 435
+  },
+  {
+    "chunk_id": "sebi_risk_and_disclosures_chunk_003",
+    "doc_id": "sebi_risk_and_disclosures",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 3,
+    "text": "- SEBI requires monthly review and disclosure of Risk-o-Meter on AMC and AMFI websites.\n4. Benchmark Disclosure:\n- Every scheme must disclose its benchmark index (e.g., Nifty 50 for large-cap funds).\n- Performance must be compared against the benchmark in all communications.\n5. Portfolio Disclosure:\n- AMCs must disclose full portfolio of all schemes on their website every month (by 10th of the following month).\n- Half-yearly portfolio disclosure is compulsory for debt schemes.",
+    "char_len": 481
+  },
+  {
+    "chunk_id": "sebi_risk_and_disclosures_chunk_004",
+    "doc_id": "sebi_risk_and_disclosures",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 4,
+    "text": "6. Stewardship Code (SEBI Circular, March 2020):\n- AMCs must have a Stewardship Code for exercising voting rights on behalf of unitholders.\n- Voting records must be disclosed quarterly.\n7. Advertising Guidelines:\n- No fund can guarantee returns in advertisements.\n- Mandatory disclaimer: \"Mutual Fund investments are subject to market risks. Please read all scheme related documents carefully.\"\n- Past performance cannot be the only basis for advertisement.\n8. Insider Trading Restrictions:",
+    "char_len": 490
+  },
+  {
+    "chunk_id": "sebi_risk_and_disclosures_chunk_005",
+    "doc_id": "sebi_risk_and_disclosures",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 5,
+    "text": "8. Insider Trading Restrictions:\n- SEBI prohibits AMC employees and fund managers from trading on material non-public information.\n- Personal investment policies for AMC staff are required.\nInvestor Grievance Redressal:\n- AMC must resolve investor grievances within 10 business days.\n- SEBI SCORES Portal (scores.gov.in) allows investors to lodge complaints against mutual funds.\n- SEBI mandates quarterly reporting of grievance statistics.",
+    "char_len": 440
+  },
+  {
+    "chunk_id": "sebi_risk_and_disclosures_chunk_006",
+    "doc_id": "sebi_risk_and_disclosures",
+    "source": "SEBI",
+    "url": "https://www.sebi.gov.in",
+    "chunk_idx": 6,
+    "text": "Source: SEBI - Securities and Exchange Board of India | sebi.gov.in",
+    "char_len": 67
   }
 ]
