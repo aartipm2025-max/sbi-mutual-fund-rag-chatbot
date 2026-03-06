@@ -27,16 +27,18 @@ Use these to test chatbot responses at each stage of development.
 16. What is the difference between growth and dividend options in a mutual fund?
 
 ### Regulatory / SEBI / AMFI
-17. What is the expense ratio limit set by SEBI for equity mutual funds?
-18. What does the SEBI Risk-o-Meter indicate?
-19. What is KYC and why is it required to invest in mutual funds?
-20. How is NAV of a mutual fund calculated?
-21. What is AMFI's role in the mutual fund industry?
+21. What is the latest SEBI Risk-o-Meter structure?
+22. What are the six levels of risk according to SEBI's Riskometer?
+23. What are the common reasons for a 'KYC On Hold' status?
+24. What is AMFI's role in the Indian mutual fund industry?
+25. What is Rupee Cost Averaging in SIP?
+26. What are the core risks involved in mutual fund investments as per AMFI?
+27. How frequently should the Risk-o-Meter be reviewed and updated by AMCs?
 
 ### ELSS & Tax
-22. What are ELSS funds and what tax benefit do they offer?
-23. Under which section of the Income Tax Act is ELSS deductible?
-24. What is the lock-in period for ELSS mutual funds?
+28. What are ELSS funds and what tax benefit do they offer?
+29. Under which section of the Income Tax Act is ELSS deductible?
+30. What is the lock-in period for ELSS mutual funds?
 
 ---
 
