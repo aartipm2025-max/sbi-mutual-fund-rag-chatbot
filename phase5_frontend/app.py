@@ -12,6 +12,7 @@ import os
 import sys
 import logging
 import re
+import json
 import streamlit as st
 from pathlib import Path
 
@@ -272,8 +273,18 @@ html, body, [class*="css"] {
 </style>
 """, unsafe_allow_html=True)
 
+# ── Load Last Update Timestamp ────────────────────────────────────────────────
+last_update_path = ROOT / "data" / "last_update.json"
+last_update_str = "Unknown"
+if last_update_path.exists():
+    try:
+        with open(last_update_path, "r") as f:
+            last_update_str = json.load(f).get("last_refresh", "Unknown")
+    except Exception:
+        pass
+
 # ── Header ────────────────────────────────────────────────────────────────────
-st.markdown("""
+st.markdown(f"""
 <div class="mf-header-wrapper">
     <span class="mf-header-icon">🏦</span>
     <h1 class="mf-header-title">INDMoney SBI Mutual Fund Facts Assistant</h1>
@@ -283,6 +294,9 @@ st.markdown("""
     </div>
     <div style="font-size: 0.65rem; color: #4A607A; margin-top: 0.3rem; line-height: 1.4; max-width: 400px; margin-left: auto; margin-right: auto;">
         SBI Small Cap | SBI Large & Midcap | SBI ELSS Tax Saver | SBI Nifty Next 50 | SBI Infrastructure
+    </div>
+    <div style="font-size: 0.6rem; color: #3A4F66; margin-top: 0.6rem;">
+        Last Updated: {last_update_str}
     </div>
     <div class="mf-teal-bar"></div>
 </div>
